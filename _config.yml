@@ -1,0 +1,12 @@
+permalink:   none
+lsi:         false
+highlighter: pygments
+markdown:    rdiscount
+rdiscount:   { extensions: [smart] }
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - script
+  - README.markdown
+
+title: "Why's (Poignant) Guide to Ruby"

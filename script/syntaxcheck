@@ -1,0 +1,12 @@
+#!/bin/sh
+# Check ruby syntax in code examples
+exec ruby -rnokogiri -e '
+  Nokogiri(ARGF).css("pre > code.rb").each { |node|
+    code = node.text
+    File.popen("ruby -wc >/dev/null", "w"){|f| f << code }
+    unless $?.success?
+      puts "------ " + node.path
+      puts code
+      puts "======"
+    end
+  }' public/book/*.html public/dwemthy/index.html

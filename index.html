@@ -1,0 +1,75 @@
+---
+layout: book
+description: >
+  A programming adventure for Ruby beginners illustrated with cartoon foxes.
+---
+  <style type="text/css">
+  body {
+    color: white;
+    background: url(images/2007-cover-pale.jpg);
+    text-align: center;
+    font-family: verdana, arial, sans-serif;
+    margin: 0; padding: 0;
+  }
+  a img {
+    border: none;
+  }
+  #cover {
+    margin: 0 auto;
+    padding: 20px 150px 20px 0px;
+    background: url(images/2007-cover-spacer.jpg);
+    z-index: 1;
+    overflow: hidden;
+  }
+  #cover img {
+    margin-bottom: -90px;
+  }
+  #menu { font-size: 12px; color: gray }
+  #menu a { color: #009 }
+  #menu p:last-child a { color: inherit }
+  #news {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 14px;
+    width: 240px;
+    padding-left: 500px;
+    padding-right: -150px;
+    padding-bottom: 20px;
+  }
+  #news a {
+    color: #FF3;
+  }
+  </style>
+
+  <script>
+  function openBook() {
+    document.getElementById("cover-image").src = "images/2007-cover-open.jpg";
+  }
+  function shutBook() {
+    document.getElementById("cover-image").src = "images/2007-cover-shut.jpg";
+  }
+  </script>
+
+  <div id="cover">
+    <a href="book/chapter-1.html" onmouseover="openBook()" onmouseout="shutBook()"><img id="cover-image" src="images/2007-cover-shut.jpg" /></a>
+    <div id="news">
+      Ohh! Fresh chapter snuck up! <strong><a href="book/chapter-7.html">When You Wish Upon a Beard</a></strong>, drawings everywhichway.
+    </div>
+  </div>
+
+  <div id="menu">
+    <p>
+    <strong><a href="book/chapter-1.html">open the book</a></strong>
+    &#0164;
+    <a href="book/">the book??</a>
+    &#0164;
+    <a href="soundtrack/">but the soundtrack??!</a>
+    </p>
+
+    <p class=vcard>
+    Tenderly written and illustrated by
+    <strong rel=author class=fn>Why the Lucky Stiff</strong>.
+    <br>
+    <a href="https://github.com/mislav/poignant-guide">Source on GitHub</a>
+    </p>
+  </div>

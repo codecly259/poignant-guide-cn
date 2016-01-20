@@ -1,0 +1,4 @@
+.ruby-version
+bin
+_site
+vendor/bundle
