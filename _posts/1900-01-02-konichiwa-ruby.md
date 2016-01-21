@@ -4,53 +4,37 @@ permalink: book/chapter-2.html
 layout: chapter
 sections:
 - - section1
-  - Opening This Book
+  - 开篇
 - - section2
-  - The Dog Story
+  - 小狗的故事
 - - section3
-  - The Red Sun Rises
+  - 红日升
 - - section4
-  - How Books Start
+  - 书的开头
 ---
 
 <a name="section1"></a>
 
-## 1. 打开这本书
+## 1. 开篇
 
-Pretend that you’ve opened this book (although you probably _have_ opened this
-book), just to find a huge onion right in the middle crease of the book. (The
-manufacturer of the book has included the onion at my request.)
-
-假设你已经打开了这本书（其实你已经打开了），先找一个大洋葱放在书的中央。
+假设你已经打开了这本书（其实你已经打开了），首先映入眼帘的是一个大洋葱，它就在书的中央。
 （在我的要求下，本书的出版商赠送洋葱一个。）
 
-So you’re like, “Wow, this book comes with an onion!” (Even if you don’t
-particularly like onions, I’m sure you can appreciate the logistics of shipping
-any sort of produce discreetly inside of an alleged programming manual.)
+你可能会惊讶，“哇，这本书还带了一个洋葱”（即使你可能不喜欢洋葱，我保证你会对在一本编程手册中附赠蔬菜感兴趣。）
 
-你可能会惊讶，“哇，这本书还带了一个洋葱”（即使你可能不喜欢洋葱，我保证）
+然后你会问自己，“等下，这本书不是讲ruby——那来自日本的神奇语言的吗？而且即使我对在编程手册
+中附赠蔬菜确实感兴趣，但为什么是洋葱？我要拿它做什么呢？”
 
-Then you ask yourself, “Wait a minute. I thought this was a book on Ruby, the
-incredible new programming language from Japan. And although I can appreciate
-the logistics of shipping any sort of produce discreetly inside of an alleged
-programming manual: Why an onion? What am I supposed to do with it?”
+不。先别纠结这个。你不用对洋葱怎么样，把它放一边，等它来找你。
 
-No. Please don’t puzzle over it. You don’t need to do anything with the onion.
-Set the onion aside and let _it_ do something with _you_.
+我们开诚布公好了。我要你哭。我要你流泪。我要你泪流满面。这是本**重口味**的Ruby指南书。也就是说，里面的代码如此美妙，你的眼泪不得不决堤；
+也就是说，你一觉醒来一定是抱着这本书，舍不得放手！必要的话也可以定做个*_Why先生（重口味）Ruby指南_*的专用豪华皮套，这样你和这本书就可以形影不离了！
 
-I’ll be straight with you. I want you to cry. To weep. To whimper sweetly. This
-book is a **poignant** guide to Ruby. That means code so beautiful that tears
-are shed. That means gallant tales and somber truths that have you waking up the
-next morning in the arms of this book. Hugging it tightly to you all the day
-long. If necessary, fashion a makeshift hip holster for _Why’s (Poignant) Guide
-to Ruby_, so you can always have this book’s tender companionship.
-
-You really must sob once. Or at least sniffle. And if not, then the onion will
-make it all happen for you.
+你确实需要抽泣一次，至少也要掉泪。要是还没有反应，洋葱会让这一切发生。
 
 <div class=sidebar><aside>
 {% capture sidebar %}
-## What I’m Going to Do With the Massive Proceeds from this Book
+## 我要怎样处理这本书带来的巨大收益
 
 Anyone who’s written a book can tell you how easily an author is distracted by
 visions of grandeur. In my experience, I stop twice for each paragraph, and four
@@ -58,6 +42,8 @@ times for each panel of a comic, just to envision the wealth and prosperity that
 this book will procure for my lifestyle. I fear that the writing of this book
 will halt altogether to make way for the armada of SUVs and luxury town cars
 that are blazing away in my head.
+
+任何一个写书的人会告诉你一个作者会多么容易的被自己宏伟的幻觉所分心。以我的经验来看，每个段落我会停止2次，每个连环画的板面会停止4次，只是为了预想这本书将来会给我的生活带来巨大的财富和繁荣。
 
 Rather than stop my production of the (Poignant) Guide, I’ve reserved this space
 as a safety zone for pouring my empty and vain wishes.
