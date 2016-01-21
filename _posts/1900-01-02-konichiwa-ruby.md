@@ -1,5 +1,5 @@
 ---
-title: "Kon’nichi wa, Ruby"
+title: "空你奇哇, Ruby"
 permalink: book/chapter-2.html
 layout: chapter
 sections:
@@ -15,15 +15,20 @@ sections:
 
 <a name="section1"></a>
 
-## 1. Opening This Book
+## 1. 打开这本书
 
 Pretend that you’ve opened this book (although you probably _have_ opened this
 book), just to find a huge onion right in the middle crease of the book. (The
 manufacturer of the book has included the onion at my request.)
 
+假设你已经打开了这本书（其实你已经打开了），先找一个大洋葱放在书的中央。
+（在我的要求下，本书的出版商赠送洋葱一个。）
+
 So you’re like, “Wow, this book comes with an onion!” (Even if you don’t
 particularly like onions, I’m sure you can appreciate the logistics of shipping
 any sort of produce discreetly inside of an alleged programming manual.)
+
+你可能会惊讶，“哇，这本书还带了一个洋葱”（即使你可能不喜欢洋葱，我保证）
 
 Then you ask yourself, “Wait a minute. I thought this was a book on Ruby, the
 incredible new programming language from Japan. And although I can appreciate
