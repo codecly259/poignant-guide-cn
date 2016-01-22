@@ -36,17 +36,9 @@ sections:
 {% capture sidebar %}
 ## 我要怎样处理这本书带来的巨大收益
 
-Anyone who’s written a book can tell you how easily an author is distracted by
-visions of grandeur. In my experience, I stop twice for each paragraph, and four
-times for each panel of a comic, just to envision the wealth and prosperity that
-this book will procure for my lifestyle. I fear that the writing of this book
-will halt altogether to make way for the armada of SUVs and luxury town cars
-that are blazing away in my head.
+任何一个写书的人会告诉你一个作者会多么容易的被自己宏伟的幻觉所分心。以我的经验来看，每个段落我会停止2次，每个连环画的板面会停止4次，只是为了预想这本书将来会给我的生活带来巨大的财富和繁荣。在我的头脑里也总是燃烧着这样的想法，我害怕写这本书会让我在向无敌越野车和豪华加长轿车的道路上止步不前。
 
-任何一个写书的人会告诉你一个作者会多么容易的被自己宏伟的幻觉所分心。以我的经验来看，每个段落我会停止2次，每个连环画的板面会停止4次，只是为了预想这本书将来会给我的生活带来巨大的财富和繁荣。在我的头脑里总是这样想着，我害怕写这本书会让我在向无敌越野车和豪华加长轿车的道路上止步不前。
-
-Rather than stop my production of the (Poignant) Guide, I’ve reserved this space
-as a safety zone for pouring my empty and vain wishes.
+然而这没有阻止我生产这本（重口味）指南，我保留这个空间作为我空想徒劳愿望的一个安全区域。
 
 Today I was at this Italian restaurant, Granado’s, and I was paying my bill.
 Happened to notice (under glass) a bottle of balsamic vinegar going for $150.
