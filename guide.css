@@ -208,7 +208,7 @@ p#terms {
     padding: 10px 4px;
 }
 .sidebar:before, .sidebar:after {
-    content: "Sidebar!";
+    content: "侧边栏!";
     display: block;
     background-color: #7A8A9A;
     color: #EFF9ED;

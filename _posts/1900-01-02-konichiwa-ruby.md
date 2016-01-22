@@ -38,21 +38,18 @@ sections:
 
 任何一个写书的人会告诉你一个作者会多么容易的被自己宏伟的幻觉所分心。以我的经验来看，每个段落我会停止2次，每个连环画的板面会停止4次，只是为了预想这本书将来会给我的生活带来巨大的财富和繁荣。在我的头脑里也总是燃烧着这样的想法，我害怕写这本书会让我在向无敌越野车和豪华加长轿车的道路上止步不前。
 
-然而这没有阻止我生产这本（重口味）指南，我保留这个空间作为我空想徒劳愿望的一个安全区域。
+然而这没有阻止我创作这本（重口味）指南，我保留这个空间作为我空想徒劳愿望的一个安全区域。
 
-Today I was at this Italian restaurant, Granado’s, and I was paying my bill.
-Happened to notice (under glass) a bottle of balsamic vinegar going for $150.
-Fairly small. I could conceal it in my palm. Aged twenty-two years.
+今天我在这所格拉纳多的意式餐馆，当我正在付款的时候，碰巧注意到了（玻璃下的）一瓶香醋的售价是150美元。相当的便宜。我可以把它藏在手掌下，22岁。
 
-I’ve spent a lot of time thinking about that bottle. It is often an accessory in
-some of these obsessive fantasies. In one fantasy, I walk into the restaurant,
-toss a stack of greenery on the counter and earnestly say to the cashier,
-“Quick! I have an important salad to make!”
+我花了太多的时间在想着那瓶香醋上。通常这在我的那些强迫性幻想中只算是小菜一碟。在一次幻想中，我走进一家餐馆，扔一堆绿叶到柜台并认真的对收银员说，“快点！我还有一个重要的色拉要做！”
 
 In another, related fantasy, I am throwing away lettuce. Such roughage isn’t
 befitting of my new vinegar. No, I will have come to a point where the fame and
 the aristocracy will have corrupted me to my core. My new lettuce will be cash.
 Cold, hard cash, Mrs. Price.
+
+在另一个相关的幻想中，我正在撒钱。
 
 Soon, I will be expending hundreds for a block of myzithra cheese.
 
