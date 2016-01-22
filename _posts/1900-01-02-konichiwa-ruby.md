@@ -43,7 +43,7 @@ this book will procure for my lifestyle. I fear that the writing of this book
 will halt altogether to make way for the armada of SUVs and luxury town cars
 that are blazing away in my head.
 
-任何一个写书的人会告诉你一个作者会多么容易的被自己宏伟的幻觉所分心。以我的经验来看，每个段落我会停止2次，每个连环画的板面会停止4次，只是为了预想这本书将来会给我的生活带来巨大的财富和繁荣。
+任何一个写书的人会告诉你一个作者会多么容易的被自己宏伟的幻觉所分心。以我的经验来看，每个段落我会停止2次，每个连环画的板面会停止4次，只是为了预想这本书将来会给我的生活带来巨大的财富和繁荣。在我的头脑里总是这样想着，我害怕写这本书会让我在向无敌越野车和豪华加长轿车的道路上止步不前。
 
 Rather than stop my production of the (Poignant) Guide, I’ve reserved this space
 as a safety zone for pouring my empty and vain wishes.
