@@ -27,7 +27,7 @@ sections:
 
 不。先别纠结这个。你不用对洋葱怎么样，把它放一边，等它来找你。
 
-我们开诚布公好了。我要你哭。我要你流泪。我要你泪流满面。这是本**重口味**的Ruby指南书。也就是说，里面的代码如此美妙，你的眼泪不得不决堤；
+我们开诚布公好了。我要你哭。我要你流泪。我要你泪流满面。这是本**感人的**Ruby指南书。也就是说，里面的代码如此美妙，你的眼泪不得不决堤；
 也就是说，你一觉醒来一定是抱着这本书，舍不得放手！必要的话也可以定做个*_Why先生（重口味）Ruby指南_*的专用豪华皮套，这样你和这本书就可以形影不离了！
 
 你确实需要抽泣一次，至少也要掉泪。要是还没有反应，洋葱会让这一切发生。
@@ -38,25 +38,22 @@ sections:
 
 任何一个写书的人会告诉你一个作者会多么容易的被自己宏伟的幻觉所分心。以我的经验来看，每个段落我会停止2次，每个连环画的板面会停止4次，只是为了预想这本书将来会给我的生活带来巨大的财富和繁荣。在我的头脑里也总是燃烧着这样的想法，我害怕写这本书会让我在向无敌越野车和豪华加长轿车的道路上止步不前。
 
-然而这没有阻止我创作这本（重口味）指南，我保留这个空间作为我空想徒劳愿望的一个安全区域。
+然而这没有阻止我创作这本（感人的）指南，我保留这个空间作为我空想徒劳愿望的一个安全区域。
 
 今天我在这所格拉纳多的意式餐馆，当我正在付款的时候，碰巧注意到了（玻璃下的）一瓶香醋的售价是150美元。相当的便宜。我可以把它藏在手掌下，22岁。
 
 我花了太多的时间在想着那瓶香醋上。通常这在我的那些强迫性幻想中只算是小菜一碟。在一次幻想中，我走进一家餐馆，扔一堆绿叶到柜台并认真的对收银员说，“快点！我还有一个重要的色拉要做！”
 
-In another, related fantasy, I am throwing away lettuce. Such roughage isn’t
-befitting of my new vinegar. No, I will have come to a point where the fame and
-the aristocracy will have corrupted me to my core. My new lettuce will be cash.
-Cold, hard cash, Mrs. Price.
+在另一个相关的幻想中，我正在扔掉食物。这些粗粮根本配不上我的新醋。不，我必须得指出名声和富裕的生活已经腐败到了我的内心。我新的食物将是金钱。高贵冷艳的现金小姐。
 
-在另一个相关的幻想中，我正在撒钱。
-
-Soon, I will be expending hundreds for a block of myzithra cheese.
+等会，我将要花费几百美元买一个块myzithra奶酪。
 
 My imaginations have now gone beyond possessions, though. Certainly, I have
 thought through my acquisition of Grecian urns, motorcades, airlines, pyramids,
 dinosaur bones. Occasionally I’ll see wind-tossed cities on the news and I’ll
 jot down on my shopping list: _Hurricane_.
+
+我的想象已经超出了我的财富
 
 But, now I’m seeing a larger goal. Simply put: what if I amassed such a fortune
 that the mints couldn’t print enough to keep up with my demand? So, everyone
