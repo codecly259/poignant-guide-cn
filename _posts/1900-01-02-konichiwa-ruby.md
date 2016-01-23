@@ -1,5 +1,5 @@
 ---
-title: "空你奇哇, Ruby"
+title: "你好,Ruby"
 permalink: book/chapter-2.html
 layout: chapter
 sections:
