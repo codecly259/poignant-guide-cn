@@ -48,11 +48,6 @@ sections:
 
 等会，我将要花费几百美元买一个块myzithra奶酪。
 
-My imaginations have now gone beyond possessions, though. Certainly, I have
-thought through my acquisition of Grecian urns, motorcades, airlines, pyramids,
-dinosaur bones. Occasionally I’ll see wind-tossed cities on the news and I’ll
-jot down on my shopping list: _Hurricane_.
-
 不过，我的想象早已超出了我的财富。我想象我已经收购了希腊古瓮，汽车公司，航空公司，金字塔，恐龙化石等等。偶然间我在新闻里面看到城市遭到暴风袭击，于是我就在我的购物清单上写下了：*飓风*。
 
 But, now I’m seeing a larger goal. Simply put: what if I amassed such a fortune
@@ -63,6 +58,8 @@ tense games. I mean you go to mortgage St. James Place and your kids start
 crying. In addition, I think you’ll begin to see the end of those who choose to
 use the Free Parking square as [the underground
 coffers](http://groups.yahoo.com/group/monopoly/message/37) for city funds.
+
+但是现在我有一个更宏伟的目标。简而言之：如果我积累的如此多的财富以至于印钞厂都不能生产足够的纸币已跟上我的需求，怎么样？因此，其他所有人都被迫使用垄断的纸币作为实际通货。
 
 You’ve got to hand it to fun money, though. Fake money rules. You can get your
 hands on it so quickly. For a moment, it seems like you’re crazy rich. When I
