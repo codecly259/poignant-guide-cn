@@ -53,7 +53,7 @@ thought through my acquisition of Grecian urns, motorcades, airlines, pyramids,
 dinosaur bones. Occasionally I’ll see wind-tossed cities on the news and I’ll
 jot down on my shopping list: _Hurricane_.
 
-我的想象已经超出了我的财富
+不过，我的想象早已超出了我的财富。我想象我已经收购了希腊古瓮，汽车公司，航空公司，金字塔，恐龙化石等等。偶然间我在新闻里面看到城市遭到暴风袭击，于是我就在我的购物清单上写下了：*飓风*。
 
 But, now I’m seeing a larger goal. Simply put: what if I amassed such a fortune
 that the mints couldn’t print enough to keep up with my demand? So, everyone
