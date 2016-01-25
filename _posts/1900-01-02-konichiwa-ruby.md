@@ -59,7 +59,7 @@ crying. In addition, I think you’ll begin to see the end of those who choose t
 use the Free Parking square as [the underground
 coffers](http://groups.yahoo.com/group/monopoly/message/37) for city funds.
 
-但是现在我有一个更宏伟的目标。简而言之：如果我积累的如此多的财富以至于印钞厂都不能生产足够的纸币已跟上我的需求，怎么样？因此，其他所有人都被迫使用垄断的纸币作为实际通货。
+但是现在我有一个更宏伟的目标。简而言之：如果我积累的如此多的财富以至于印钞厂都不能生产足够的纸币已跟上我的需求，怎么样？因此，其他所有人都被迫使用垄断的纸币作为实际通货。那样你就必须要挣得垄断的纸币来保持桌子上的食物。这将是场严肃而紧张的游戏。我的意识是你必须抵押你的房子然后你的孩子将要哭泣。
 
 You’ve got to hand it to fun money, though. Fake money rules. You can get your
 hands on it so quickly. For a moment, it seems like you’re crazy rich. When I
