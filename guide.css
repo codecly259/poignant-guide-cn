@@ -330,7 +330,7 @@ body.expansion #banner a:hover {
 }
 
 /* printing */
-@page { size 8.5in 11in; margin: 0cm; }
+@page { size: 8.5in 11in; margin: 0cm; }
 
 /* syntax highlighting */
 .highlight {
