@@ -53,21 +53,14 @@ sections:
 但是现在我有一个更宏伟的目标。简而言之：如果我积累的如此多的财富以至于印钞厂都不能生产足够的纸币已跟上我的需求，怎么样？因此，其他所有人都被迫使用垄断的纸币作为实际通货。那样你就必须要挣得垄断的纸币来保持桌子上的食物。这将是场严肃而紧张的游戏。我的意识是你必须抵押你的房子然后你的孩子将要哭泣。
 因此，我认为你将要成为那些选择地下停车场作为城市资金，就像[地下国库](http://groups.yahoo.com/group/monopoly/message/37)中描述的那样。
 
-You’ve got to hand it to fun money, though. Fake money rules. You can get your
-hands on it so quickly. For a moment, it seems like you’re crazy rich. When I
-was a kid, I got with some of the neighborhood kids and we built this little
-Tijuana on our street. We made our own pesos and wore sombreros and everything!
+但是，你需要借助有趣的钱。假钱规则。你很快就能得到很多钱。一时间，看起来你成为了一个大富翁。
+小时候，我聚集了一些邻居的孩子，在我们的街道上建立了这个小的蒂华纳城。我们制定了自己的比索(一种货币)，穿阔边帽和所有的事情。
 
+一个小孩正在以2比索每个的价格卖热玉米粉蒸肉。*2个比索*！这个孩子知道这些钱是假的吗？
+还是他疯了？谁邀请的这个小孩？他难道不知道这不是真的蒂华纳城？也许他真的是来自蒂华纳城！
+也许这些事*真实的*比索！让我们去赚更多*真实的*比索！
 
-
-One kid was selling hot tamales for two pesos each. _Two pesos!_ Did this kid
-know that the money was fake? Was he out of his mind? Who invited this kid?
-Didn’t he know this wasn’t really Tijuana? Maybe he was really from Tijuana!
-Maybe these were _real_ pesos! Let’s go make more _real_ pesos!
-
-I think we even had a tavern where you could get totally hammered off Kool-Aid.
-There’s nothing like a bunch of kids stumbling around, mumbling incoherently
-with punchy red clown lips.
+我认为，我们甚至有一个小酒馆，你可以在那里喝个酩酊大醉。再没有像一群小孩在那里跌跌撞撞，使用幼嫩的嘴唇喃喃自语语无伦次的场景了。
 {% endcapture %}
 {{ sidebar | markdownify }}
 </aside></div>
