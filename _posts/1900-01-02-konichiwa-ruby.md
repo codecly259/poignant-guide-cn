@@ -136,7 +136,7 @@ sections:
 3.  **免费**
     
     Ruby完全免费，而且它的源代码对这世界的任何人开放。对了这本书也是免费的。
-它们都是这一全名共享运动的一部分。
+它们都是这一全民共享运动的一部分。
 
     你可能以为我们会忽悠你买吸尘器，买临时别墅，买假画。你可能以为有个90分钟的演示，
 最后公司的头头们会冒出来教你签购物单。    
@@ -147,37 +147,28 @@ sections:
 
 <a name="section4"></a>
 
-## 4. How Books Start
+## 4. 书的开头
 
-Now, if you ever have read a book, you know that no book can properly start
-without an exorbitant amount of synergy. Yes, synergy. Maybe you didn’t know
-this. Synergy means that you and I are supposed to cooperate to make this a
-great reading experience.
+好，如果你有读过一些书，就应该有体会：书离不开默契。是的，默契。
+默契就是读者你和作者我，为了阅读体验而进行的合作。
 
-We start off the book by getting along well in the Introduction. This
-togetherness, this **synergy**, propels us through the book, with me guiding you
-on your way. You give me a reassuring nod or snicker to indicate your progress.
+开了个好头。我们既然有缘相会，就让这份**默契**从始贯终好了。我给你点指导，
+你给我捧个场：体会到自己有进步就会心笑一下。
 
-I’m Peter Pan holding your hand. Come on, Wendy! Second star to the right and on
-till morning.
+我是握着你的手彼得潘。来吧，Wendy！右边的第二颗星，黑夜里为你点燃星光！
 
-One problem here. I don’t get along well with people. I don’t hold hands very
-well.
+不过有个小事情得说明下。我的人缘不好，所以握手不大结实。
 
-Any of my staff will tell you. At the Opening Ceremonies of This Book (a catered
-event with stadium seating), I discovered that the cucumber sandwiches weren’t
-served in tea towels. As a result, the butter hadn’t set with the cucumbers
-right… Anyways, I made a big scene and set fire to some of the advertising
-trucks outside. I smashed this spotlight to pieces and so on. I had this loud
-maniacal laughing thing going on deep into that night. It was a real mess.
+我的手下都知道。在这本书开幕式（一个大规模的发布会）的时候，我发现黄瓜三明治没放在餐布上，
+搞得奶油跟黄瓜不怎么搭...我就大发雷霆，出去放火烧了几辆宣传车，又把聚光灯什么的砸了个粉碎。
+如此疯狂到了半夜，场面何其壮观啊。
 
-But, since I don’t get along well with people, I hadn’t invited anyone but
-myself to the Opening Ceremonies of This Book. So it wasn’t really that
-embarrassing. I kept it under wraps and no one found out about the whole ordeal.
+所幸我人缘不好...开幕式上除了我自己谁也没请来，所以也没整的丢人。后来我对此守口如瓶，
+谁也不知道这尴尬事。
 
-So you’ve got to know that **synergy** doesn’t actually mean **synergy** in this
-book. I can’t do normal **synergy**. No, in this book, **synergy** means
-**cartoon foxes**. What I’m saying is: this book will be starting off with an
-exorbitant amount of **cartoon foxes**.
+你改明白了...这本书，此**默契**非彼**默契**。这跟人**默契**不来，这里的**默契**就是指**卡通小狐狸**。
+也就是说：从头到尾，这书里面会有很多**卡通小狐狸**。
 
-And I will be counting on you to turn them into **synergy**.
+
+愿你能把它们当作**默契**。
+
