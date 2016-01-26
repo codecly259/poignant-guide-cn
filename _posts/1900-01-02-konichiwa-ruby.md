@@ -89,7 +89,7 @@ sections:
 不多久我就牵上了新的Bigelow一打印了一堆的Ruby读物，都是网上的文章。后来我在回家的火车上扫过一遍，
 只看了五分钟，毫无深刻可言。
 
-我就坐着看窗外的世界，任这纷繁万千在眼前融化。*小语言啊，这世界太大了。*，我想。
+我就坐着看窗外的世界，任这纷繁万千在眼前融化。*小语言啊，这世界太大了*，我想。
 *你小东西什么也轮不着，没你站立的脚，也没你游泳的手。*
 
 这就是当时的我，小破火车里的小人儿（甚至还有颗乳牙还没掉）。这个蓝色星球上住着几十亿人，
@@ -103,68 +103,47 @@ sections:
 
 <a name="section3"></a>
 
-## 3. The Red Sun Rises
+## 3. 红日升
 
-So, now you’re wondering why I changed my mind about Ruby. The quick answer is:
-we clicked.
+现在你可能对这个感兴趣：我是因何而改变了对ruby的想法？答案很简单：我开窍了。
 
-Like when you meet Somebody in college and they look like somebody who used to
-hit you in the face with paintbrushes when you were a kid. And so, impulsively,
-you conclude that this new Somebody is likely a non-friend. You wince at their
-hair. You hang up phones loudly during crucial moments in their anecdotes. You
-use your pogo stick right there where they are trying to walk!
+就像你在学校认识某人，他长得跟小时候朝你脸上泼墨水的家伙一模一样。很自然，他会觉得你这小子不是好人。
+你对他们避之则吉，巴不得在他们讲笑话正在兴致的时候挂掉电话，在他们走的路前面放个香蕉皮！
 
-Six months later, somehow, you and Somebody are sitting at a fountain having a
-perfectly good chat. Their face doesn’t look so much like that childhood
-nemesis. You’ve met the Good Twin. You clicked.
+不过半年后机缘巧合，你和某人坐到一起居然聊的很投机。这时他们长得不那么像那小混蛋了，
+你们成了铁哥们。你开窍了。
 
-So whereas I should probably be pounding your teeth in with hype about Ruby and
-the tightly-knit cadre of pertinent acronyms that accompany it everywhere
-(whetting the collective whistles of your bosses and their bosses’ bosses),
-instead I will just let you coast. I’ll let you free-fall through some code,
-interjecting occasionally with my own heartfelt experiences. It’ll be quite
-easy, quite natural.
+我不会撬开你的嘴，搭配上各种术语缩写（这个老板们喜欢）朝里面猛灌ruby的知识。
+相反，不如简简单单的来：给你一些代码，穿插点我的心得体会。轻松自然多号。
 
-I should offer you some sort of motivation, though. So, Smotchkkiss, I’m going
-to give my three best reasons to learn Ruby and be done with it.
+当然适量打点鸡血也是必要的。学习Ruby，这就是我的理由：
 
-1.  **Brain health.**
+1.  **大脑健康**
     
-    Vitamin R. Goes straight to the head. Ruby will teach you to _express_ your
-ideas through a computer. You will be writing stories for a machine.
-    
-    Creative skills, people. Deduction. Reason. Nodding intelligently. The
-language will become a tool for you to better connect your mind to the world.
-I’ve noticed that many experienced users of Ruby seem to be clear thinkers and
-objective. (In contrast to: heavily biased and coarse.)
+    维生素R对大脑有好处。有了一台电脑，Ruby可以助你*表达*自己的想法。
 
-2.  **One man on one island.**
-    
-    Ruby was born in Japan. Which is freaky. Japan is not known for its
-software. And since programming languages are largely written in English, who
-would suspect a language to come from Japan?
-    
-    And yet, here we have Ruby. Against the odds, Yukihiro Matsumoto created
-Ruby on February 24, 1993. For the past ten years, he has steadily brought Ruby
-to a global audience. It’s triumphant and noble and all that. Support diversity.
-Help us tilt the earth just a bit.
+    这是生产力，朋友。归纳，思考再执行。这门语言可以为你增加一条与世界沟通的途径。
+据我所知，许多Ruby爱好者都很有思想，理智且客观（而少有偏执与狭隘）。
 
-3.  **Free.**
+2.  **一个人在一个岛上**
     
-    Using Ruby costs nothing. The code to Ruby itself is open for all of the
-world to inhale/exhale. Heck, this book is free. It’s all part of a great, big
-giveaway that should have some big hitch to it.
+    Ruby来自日本，怪吧，日本的软件可没什么名气。几乎所有的编程都来自英语世界，
+谁又会关注日本的语言呢？
     
-    You’d think we’d make you buy vacuums or timeshare or fake Monets. You’d
-think there’d be a 90 minute presentation where the owner of the company comes
-out at the end and knuckles you into sealing the deal.
-    
-    Nope, free.
+    1993年2月24日，松本行宏发布ruby之后这就不一样了。过去的十年里他让ruby进入国际视野，
+得到了人们的广泛关注。有一颗开放的心，我们可以撬动地球。
 
-With that, it’s time for the book to begin. You can now get out your highlighter
-and start dragging it along each captivating word from this sentence on. I think
-I have enough hairspray and funny money on my person to keep me sustained until
-the final page.
+3.  **免费**
+    
+    Ruby完全免费，而且它的源代码对这世界的任何人开放。对了这本书也是免费的。
+它们都是这一全名共享运动的一部分。
+
+    你可能以为我们会忽悠你买吸尘器，买临时别墅，买假画。你可能以为有个90分钟的演示，
+最后公司的头头们会冒出来教你签购物单。    
+
+    没，完全免费。
+
+为了写完这本书，我备足了发胶和假钞。你不妨拿支彩笔，顺着这句话一路画下去。嗯，是时候了，本书开始。
 
 <a name="section4"></a>
 
