@@ -50,21 +50,15 @@ sections:
 
 不过，我的想象早已超出了我的财富。我想象我已经收购了希腊古瓮，汽车公司，航空公司，金字塔，恐龙化石等等。偶然间我在新闻里面看到城市遭到暴风袭击，于是我就在我的购物清单上写下了：*飓风*。
 
-But, now I’m seeing a larger goal. Simply put: what if I amassed such a fortune
-that the mints couldn’t print enough to keep up with my demand? So, everyone
-else would be forced to use Monopoly money as actual currency. And you would
-have to win in Monopoly to keep food on the table. These would be some seriously
-tense games. I mean you go to mortgage St. James Place and your kids start
-crying. In addition, I think you’ll begin to see the end of those who choose to
-use the Free Parking square as [the underground
-coffers](http://groups.yahoo.com/group/monopoly/message/37) for city funds.
-
 但是现在我有一个更宏伟的目标。简而言之：如果我积累的如此多的财富以至于印钞厂都不能生产足够的纸币已跟上我的需求，怎么样？因此，其他所有人都被迫使用垄断的纸币作为实际通货。那样你就必须要挣得垄断的纸币来保持桌子上的食物。这将是场严肃而紧张的游戏。我的意识是你必须抵押你的房子然后你的孩子将要哭泣。
+因此，我认为你将要成为那些选择地下停车场作为城市资金，就像[地下国库](http://groups.yahoo.com/group/monopoly/message/37)中描述的那样。
 
 You’ve got to hand it to fun money, though. Fake money rules. You can get your
 hands on it so quickly. For a moment, it seems like you’re crazy rich. When I
 was a kid, I got with some of the neighborhood kids and we built this little
 Tijuana on our street. We made our own pesos and wore sombreros and everything!
+
+
 
 One kid was selling hot tamales for two pesos each. _Two pesos!_ Did this kid
 know that the money was fake? Was he out of his mind? Who invited this kid?
