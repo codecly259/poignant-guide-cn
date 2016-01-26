@@ -27,8 +27,8 @@ sections:
 
 不。先别纠结这个。你不用对洋葱怎么样，把它放一边，等它来找你。
 
-我们开诚布公好了。我要你哭。我要你流泪。我要你泪流满面。这是本**感人的**Ruby指南书。也就是说，里面的代码如此美妙，你的眼泪不得不决堤；
-也就是说，你一觉醒来一定是抱着这本书，舍不得放手！必要的话也可以定做个*_Why先生（重口味）Ruby指南_*的专用豪华皮套，这样你和这本书就可以形影不离了！
+我们开诚布公好了。我要你哭。我要你流泪。我要你泪流满面。这是本**辛酸的**Ruby指南书。也就是说，里面的代码如此美妙，你的眼泪不得不决堤；
+也就是说，你一觉醒来一定是抱着这本书，舍不得放手！必要的话也可以定做个*_Why先生（心酸的）Ruby指南_*的专用豪华皮套，这样你和这本书就可以形影不离了！
 
 你确实需要抽泣一次，至少也要掉泪。要是还没有反应，洋葱会让这一切发生。
 
@@ -38,7 +38,7 @@ sections:
 
 任何一个写书的人会告诉你一个作者会多么容易的被自己宏伟的幻觉所分心。以我的经验来看，每个段落我会停止2次，每个连环画的板面会停止4次，只是为了预想这本书将来会给我的生活带来巨大的财富和繁荣。在我的头脑里也总是燃烧着这样的想法，我害怕写这本书会让我在向无敌越野车和豪华加长轿车的道路上止步不前。
 
-然而这没有阻止我创作这本（感人的）指南，我保留这个空间作为我空想徒劳愿望的一个安全区域。
+然而这没有阻止我创作这本（辛酸的）指南，我保留这个空间作为我空想徒劳愿望的一个安全区域。
 
 今天我在这所格拉纳多的意式餐馆，当我正在付款的时候，碰巧注意到了（玻璃下的）一瓶香醋的售价是150美元。相当的便宜。我可以把它藏在手掌下，22岁。
 
@@ -67,33 +67,24 @@ sections:
 
 <a name="section2"></a>
 
-## 2. The Dog Story
+## 2. 小狗的故事
 
-So try this first bit of poignancy on for size:
+先看下这个感不感人：
 
-One day I was walking down one of those busy roads covered with car dealerships
-(this was shortly after my wedding was called off) and I found an orphaned dog
-on the road. A woolly, black dog with greenish red eyes. I was kind of feeling
-like an orphan myself, so I took a couple balloons that were tied to a pole at
-the dealership and I relocated them to the dog’s collar. Then, I decided he
-would be my dog. I named him Bigelow.
+一天，我在一条满是汽车卖场的大街上（当时就是我的婚事取消不久）发现了一只黑毛流浪狗，
+它的眼睛绿里透红。我觉得同病相怜，就从卖场的一根柱子那里取下两个气球绑到了它项圈上。
+我就认为它是我的狗了，就叫它Bigelow。
 
-We set off to get some Milkbones for Bigelow and, afterwards, head over to my
-place, where we could sit in recliners and listen to Gorky’s Zygotic Mynci. Oh,
-and we’d also need to stop by a thrift store and get Bigelow his own recliner.
+买狗粮去，买完狗粮就回我住处，到时候我们可以随便躺在椅子上听听Gorky的Zygotic Mynci。
+哦，对了，还得找家店给Bigelow买个躺椅。
 
-But Bigelow hadn’t accepted me as his master. So five minutes later, the stupid
-dog took a different crosswalk than I did and I never caught up. So whereas he
-had previously only been lost once, he was now lost twice. I slowed my pace
-towards the life of Milkbones and an extra recliner. I had a dog for five
-minutes.
+不过Bigelow可没认我当主人。五分钟一过，这混蛋小狗就跟我分道扬镳了，我还追不上。
+可怜的小狗走丢了第二次，狗粮和躺椅都成了昨日梦幻。小狗只跟了我五分钟。
 
-Stupid Benedict Arnold of a dog. I sat on a city bench and threw pine cones at a
-statue of three sheep crossing a bridge. After that, I wept for hours. The tears
-just came. Now there’s a little something poignant to get you started.
+该死的反骨仔。我就坐在街边的椅子上朝三羊过桥的雕像扔松果，随着哭了个把小时，眼泪不争气啊。
+好吧，你现在该觉得有点辛酸了。
 
-I wonder where he went with all those balloons. That crazy dog must have looked
-like a party with legs.
+我想，它会把那气球带到哪？那只疯狗看着一定跟个长腿儿的气球似的。
 
 It wasn’t much later that I pulled my own Bigelow. I printed out a bunch of
 pages on Ruby. Articles found around the Web. I scanned through them on a train
