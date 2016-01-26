@@ -1,3 +1,18 @@
+::selection {
+    background:#fd5d3c none repeat scroll 0 0;
+    color:#fff;
+}
+
+::-moz-selection {
+    background:#fd5d3c none repeat scroll 0 0;
+    color:#fff;
+}
+
+::-webkit-selection {
+    background:#fd5d3c none repeat scroll 0 0;
+    color:#fff;
+}
+
 body {
 	background-image: url(images/2006.pale.jpg);
     color: #222;
