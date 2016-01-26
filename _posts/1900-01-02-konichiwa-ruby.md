@@ -69,7 +69,7 @@ sections:
 
 ## 2. 小狗的故事
 
-先看下这个感不感人：
+先看下这个辛不辛酸：
 
 一天，我在一条满是汽车卖场的大街上（当时就是我的婚事取消不久）发现了一只黑毛流浪狗，
 它的眼睛绿里透红。我觉得同病相怜，就从卖场的一根柱子那里取下两个气球绑到了它项圈上。
@@ -86,28 +86,20 @@ sections:
 
 我想，它会把那气球带到哪？那只疯狗看着一定跟个长腿儿的气球似的。
 
-It wasn’t much later that I pulled my own Bigelow. I printed out a bunch of
-pages on Ruby. Articles found around the Web. I scanned through them on a train
-ride home one day. I flipped through them for five minutes and then gave up. Not
-impressed.
+不多久我就牵上了新的Bigelow一打印了一堆的Ruby读物，都是网上的文章。后来我在回家的火车上扫过一遍，
+只看了五分钟，毫无深刻可言。
 
-I sat, staring out the window at the world, a life-sized blender mixing graffiti
-and iron smelts before my eyes. _This world’s too big for such a a little
-language_, I thought. _Poor little thing doesn’t stand a chance. Doesn’t have
-legs to stand on. Doesn’t have arms to swim._
+我就坐着看窗外的世界，任这纷繁万千在眼前融化。*小语言啊，这世界太大了。*，我想。
+*你小东西什么也轮不着，没你站立的脚，也没你游泳的手。*
 
-And yet, there I was. One little man on a flimsy little train (and I even still
-had a baby tooth to lose at the time) out of billions of people living on a
-floating blue rock. How can I knock Ruby? Who’s to say that I’m not going to
-happen to choke on my cell phone and die later that evening. Why’s dead, Ruby
-lives on.
+这就是当时的我，小破火车里的小人儿（甚至还有颗乳牙还没掉）。这个蓝色星球上住着几十亿人，
+又怎轮着我装上宝石(Ruby)运？谁又拿得准我第二天会不会被手机噎死？Why先生已死，Ruby永存。
 
-The gravestone:
+墓志铭就这么写：
 
-> What’s in his trachea? Oh, look, a Nokia!
+> 他的气管里有啥？瞧啊，一只诺基亚！
 
-Just my luck. Finally get to have a good, long sleep underground, only to be
-constantly disturbed by _Pachelbel’s Canon_ going off in my stomach.
+万幸万幸，我终于可以在地下边睡个安稳觉了一只不过铃音会不定期的来囧我。
 
 <a name="section3"></a>
 
