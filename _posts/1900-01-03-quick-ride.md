@@ -1,16 +1,16 @@
 ---
-title: "A Quick (and Hopefully Painless) Ride Through Ruby (with Cartoon Foxes)"
+title: "快速(有希望且无疼痛的)上手Ruby(与卡通小狐狸一起)"
 permalink: book/chapter-3.html
 layout: chapter
 sections:
 - - section1
-  - Language and I MEAN Language
+  - 语言和我意味着的语言
 - - section2
-  - The Parts of Speech
+  - 演讲部分
 - - section3
-  - If I Haven't Treated You Like a Child Enough Already
+  - 如果我还没有把你像孩子一样对待
 - - section4
-  - An Example to Help You Grow Up
+  - 一个例子来帮助你成长
 - - section5
   - And So, The Quick Trip Came To An Eased, Cushioned Halt
 ---
