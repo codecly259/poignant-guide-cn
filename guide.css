@@ -1,15 +1,16 @@
+/*绿色#24890d  橘黄色fd5d3c*/
 ::selection {
-    background:#fd5d3c none repeat scroll 0 0;
+    background:#24890d none repeat scroll 0 0;
     color:#fff;
 }
 
 ::-moz-selection {
-    background:#fd5d3c none repeat scroll 0 0;
+    background:#24890d none repeat scroll 0 0;
     color:#fff;
 }
 
 ::-webkit-selection {
-    background:#fd5d3c none repeat scroll 0 0;
+    background:#24890d none repeat scroll 0 0;
     color:#fff;
 }
 
