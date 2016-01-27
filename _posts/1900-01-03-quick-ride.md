@@ -4,7 +4,7 @@ permalink: book/chapter-3.html
 layout: chapter
 sections:
 - - section1
-  - 语言和我意味着的语言
+  - 语言，我是说语言
 - - section2
   - 演讲部分
 - - section3
@@ -17,38 +17,29 @@ sections:
 
 ![The foxes show up.](../images/the.foxes-1.png "The foxes show up.")
 
-Yeah, these are the two. My asthma’s kickin’ in so I’ve got to go take a puff of
-medicated air just now. Be with you in a moment.
+eah,就这两只。有点哮喘，我吸点药先，马上回来。
 
 ![Foxes in boxes.](../images/the.foxes-2.png "Foxes in boxes.")
 
-I’m told that this chapter is best accompanied by a rag. Something you can mop
-your face with as the sweat pours off your face.
+友情提示，看本章前最好先准备条手巾，方便擦泪嘛。
 
-Indeed, we’ll be racing through the whole language. Like striking every match in
-a box as quickly as can be done.
+我们就快速通览下整个语言。就像拿个火柴盒，尽可能快的划光里面的火柴 -V-
 
 <a name="section1"></a>
 
-## 1. Language and I MEAN Language
+## 1. 语言，我是说语言
 
 ![Our friends, those two helpless foxies, finally realize the gravity of their
 predicament.](../images/the.foxes-3.png "Our friends, those two helpless foxies,
 finally realize the gravity of their predicament.")
 
-My conscience won’t let me call Ruby a _computer_ language. That would imply
-that the language works primarily on the computer’s terms. That the language is
-designed to accommodate the computer, first and foremost. That therefore, we, the
-coders, are foreigners, seeking citizenship in the computer’s locale. It’s the
-computer’s language and we are translators for the world.
+凭良心说话，我不会把ruby当成一门*计算机*语言。看得出，计算机语言首先指的就是操作
+计算机的语言——计算机是它的国度。我们程序员则是移民过来的外国人，为我们的世界做翻译。
 
-But what do you call the language when your brain begins to think in that
-language? When you start to use the language’s own words and colloquialisms to
-express yourself. Say, the computer can’t do that. How can it be the computer’s
-language? It is ours, we speak it natively!
+不过，你觉得该怎样称呼这样的语言，你用这门语言的词汇表达文法表达自己的想法，
+用它直接来思考？这能是计算机语言么？这个计算机做不了，这是我们的语言。
 
-We can no longer truthfully call it a _computer_ language. It is _coderspeak_.
-It is the language of our thoughts.
+我们没有必要迷信*计算机*语言这样的说法，*代码民工才这么说*。它是我们思维的语言。
 
 **Read the following aloud to yourself.**
 
