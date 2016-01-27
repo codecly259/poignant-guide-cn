@@ -41,59 +41,49 @@ finally realize the gravity of their predicament.")
 
 我们没有必要迷信*计算机*语言这样的说法，*代码民工才这么说*。它是我们思维的语言。
 
-**Read the following aloud to yourself.**
+**把它大声念出来**
 
 {% highlight rb %}
 5.times { print "Odelay!" }
 {% endhighlight %}
 
-In English sentences, punctuation (such as periods, exclamations, parentheses)
-are silent. Punctuation adds meaning to words, helps give cues as to what the
-author intended by a sentence. So let’s read the above as: _Five times print
-“Odelay!”._
+念单词，先无视标点符号（如引号，括号）什么的。这几个标点给单词赋予了含义，
+帮助我们理解作者的本意。所以我们这么念：*打印"Odelay!"5次*
 
-Which is exactly what this small Ruby program does. Beck’s [mutated Spanish][1]
-exclamation will print five times on the computer screen.
+行如其文。Beck那[突变的西班牙][1]感叹句就会在屏幕上打印五遍。
 
-**Read the following aloud to yourself.**
+**把它大声念出来**
 
 {% highlight rb %}
 exit unless "restaurant".include? "aura"
 {% endhighlight %}
 
-Here we’re doing a basic reality check. Our program will **exit** (the program
-will end) **unless** the word **restaurant** contains (or **includes**) the word
-**aura**. Again, in English: _Exit unless the word restaurant includes the word
-aura._
+这是个简单的检查。我们的程序会**退出**（程序将要结束），**除非**这单词**restaurant**里面包含
+（也就是**includes**）单词**aura**。好，再用英语来一遍：*Exit unless the word restaurant includes the words aura*
+（*除非单词restaurant包含单词aura，否则程序退出*）。
 
-Ever seen a programming language use question marks so effectively? Ruby uses
-some punctuation, such as exclamations and question marks, to enhance
-readability of the code. We’re asking a question in the above code, so why not
-make that apparent?
+见过哪门语言有这么用问号的没？ruby使用了些标点符号（如感叹号和问号）来提升代码的可读性。
+就像上面的代码，我们既然是对代码提问题，那为啥不写的更清楚点？
 
-**Read the following aloud to yourself.**
+**把它大声念出来**
 
 {% highlight rb %}
 ['toast', 'cheese', 'wine'].each { |food| print food.capitalize  }
 {% endhighlight %}
 
-While this bit of code is less readable and sentence-like than the previous
-examples, I’d still encourage you to read it aloud. While Ruby may sometimes
-read like English, it sometimes reads as a shorter English. Fully translated
-into English, you might read the above as: _With the words ‘toast’, ‘cheese’,
-and ‘wine’: take each food and print it capitalized._
+好吧，这段代码不如前两个那么像英语那么好读，不过我依然建议你念一遍。
+Ruby有时是读着像英语，有时更像简化版英语。把上面的代码翻译成英语就是：
+*With the words ‘toast’, ‘cheese’,and ‘wine’: take each food and print it capitalized*
+（*把单词'toast','chees'和'wine'：每个食物以首字母大写打印出来*）。
 
-The computer then courteously responds: `Toast`, `Cheese` and `Wine`.
+然后电脑很有礼貌地回答道：'Toast','Cheese'和'Wine'。
 
-At this point, you’re probably wondering how these words actually fit together.
-Smotchkkiss is wondering what the dots and brackets mean. I’m going to discuss
-the various _parts of speech_ next.
+这里你可能感兴趣，这些单词是怎么组到一块儿的。Somtchkkiss同学问了，这几个点和括号
+是什么意思？我将要在下一节讨论各种*词性*。
 
-All you need to know thus far is that Ruby is basically built from sentences.
-They aren’t exactly English sentences. They are short collections of words and
-punctuation which encompass a single thought. These sentences can form books.
-They can form pages. They can form entire novels, when strung together. Novels
-that can be read by humans, but also by computers.
+目前为止你需要明白的就是，Ruby代码都是句子。这句子不一定是英文，而是表达你想法的
+少许单词和符号组合。这些句子放到一起，可以编成书，可已编成论文，也可以编成小说。
+这小说可以给人看，还可以给电脑看。
 
 <div class=sidebar><aside>
 {% capture sidebar %}
