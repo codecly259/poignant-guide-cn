@@ -17,7 +17,7 @@ sections:
 
 ![The foxes show up.](../images/the.foxes-1.png "The foxes show up.")
 
-eah,就这两只。有点哮喘，我吸点药先，马上回来。
+Yeah,就这两只。有点哮喘，我吸点药先，马上回来。
 
 ![Foxes in boxes.](../images/the.foxes-2.png "Foxes in boxes.")
 
