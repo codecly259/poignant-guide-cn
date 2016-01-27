@@ -87,13 +87,17 @@ Ruby有时是读着像英语，有时更像简化版英语。把上面的代码�
 
 <div class=sidebar><aside>
 {% capture sidebar %}
-## Concerning Commercial Uses of the (Poignant) Guide
+## 关于这本(辛酸的)指南的商业使用
 
 This book is released under a Creative Commons license which allows unlimited
 commercial use of this text. Basically, this means you can sell all these
 bootleg copies of my book and keep the revenues for yourself. I trust my readers
 (and the world around them) to rip me off. To put out some crappy Xerox edition
 with that time-tested clipart of praying hands on the cover.
+
+这本书使用知识共享协议发布，允许没有限制的商业使用这些文字。基本上，这意味着你可以
+出售这些盗版我的书来获得收入。我相信我的那些读者（以及他们周围的世界）会来宰我。
+
 
 Guys, the lawsuits just ain’t worth the headache. So I’m just going to straight
 up endorse authorized piracy, folks. Anybody who wants to read the book should
