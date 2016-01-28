@@ -89,34 +89,24 @@ Ruby有时是读着像英语，有时更像简化版英语。把上面的代码�
 {% capture sidebar %}
 ## 关于这本(辛酸的)指南的商业使用
 
-This book is released under a Creative Commons license which allows unlimited
-commercial use of this text. Basically, this means you can sell all these
-bootleg copies of my book and keep the revenues for yourself. I trust my readers
-(and the world around them) to rip me off. To put out some crappy Xerox edition
-with that time-tested clipart of praying hands on the cover.
-
 这本书使用知识共享协议发布，允许没有限制的商业使用这些文字。基本上，这意味着你可以
 出售这些盗版我的书来获得收入。我相信我的那些读者（以及他们周围的世界）会来宰我。
+把那些蹩脚的复印版装上久经考验的剪纸艺术作为封面。
 
+朋友，法律是不值得头疼的。所以我是支持经过授权的盗版。任何想要读这本书的人都应该可以读到。
+任何人想要卖这本书或者由这本书衍生出其他的版本，我荣幸之极。
 
-Guys, the lawsuits just ain’t worth the headache. So I’m just going to straight
-up endorse authorized piracy, folks. Anybody who wants to read the book should
-be able to read it. Anybody who wants to market the book or come up with special
-editions, I’m flattered.
+我为什么要钱呢？<span class="caps">忽略其他所有侧边栏</span>:
+我已经失去了想成为富裕笨蛋的愿望。听起来挺残忍，但是我们喜欢我的小黑白电视，
+也喜欢我的悬挂式塑料灯。我不想成为一个职业的作家。现金不能激励我，那毫无意义。
 
-Why would I want the $$$? <span class="caps">IGNORE ALL OTHER SIDEBARS</span>:
-I’ve lost the will to be a rich slob. Sounds inhuman, but I like my little
-black-and-white television. Also my hanging plastic flower lamp. I don’t want to
-be a career writer. Cash isn’t going inspire me. Pointless.
-
-So, if money means nothing to the lucky stiff, why rip me off when you could
-co-opt shady business practices to literally crush my psyche and leave me
-wheezing in some sooty iron lung? Oh, and the irony of using my own works
-against me! Die, Poignant Boy!
+所以，如果钱对我来说不意味着什么，为什么在你做了商业实践之后又来狠狠地压碎我的灵魂
+然后又扔下我一个人使用乌黑的铁肺喘息？哦，使用我的作品然后来讽刺我！该死的！尖酸刻薄的男孩！
 
 To give you an idea of what I mean, here are a few underhanded concepts that
 could seriously kill my willpower and force me to reconsider things like
 existence.
+
 
 **<span class="caps">IDEA ONE</span>: BIG <span class="caps">TOBACCO</span>**
 
