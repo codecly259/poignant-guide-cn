@@ -106,7 +106,7 @@ Ruby有时是读着像英语，有时更像简化版英语。把上面的代码�
 To give you an idea of what I mean, here are a few underhanded concepts that
 could seriously kill my willpower and force me to reconsider things like
 existence.
-
+为了解释我的意思，这里有一些
 
 **<span class="caps">IDEA ONE</span>: BIG <span class="caps">TOBACCO</span>**
 
