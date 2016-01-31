@@ -103,32 +103,25 @@ Ruby有时是读着像英语，有时更像简化版英语。把上面的代码�
 所以，如果钱对我来说不意味着什么，为什么要在你做了商业实践之后又来狠狠地压碎我的灵魂
 然后又扔下我一个人使用乌黑的铁肺喘息？哦，使用我的作品然后来讽刺我！该死的！尖酸刻薄的男孩！
 
-To give you an idea of what I mean, here are a few underhanded concepts that
-could seriously kill my willpower and force me to reconsider things like
-existence.
-为了解释我的意思，这里有一些
+为了解释我的意思，这里有一些可以杀死我的意志并强迫我重新思考生存意义的秘密内容。
 
-**<span class="caps">IDEA ONE</span>: BIG <span class="caps">TOBACCO</span>**
+**<span class="caps">想法一</span>: 大<span class="caps">烟草公司</span>**
 
-Buy a cigarette company. Use my cartoon foxes to fuel an aggressive ad campaign.
-Here’s a billboard for starters:
-
+买一个烟草公司。用我的卡通小狐狸燃烧起一股带侵略性的广告活动。
+以这个广告牌作为开胃菜：
 ![Addiction is like Pokemon!](../images/the.foxes-0a.png "Addiction is like
 Pokemon!")
 
-Make it obvious that you’re targeting children and the asthmatic. Then, once
-you’ve got everyone going, have the **truth** people do an expose on me and my
-farm of inky foxes.
+把目标市场定位为儿童和气喘病患者。然后，一旦事情进展顺利，那些
+知道**真相**的人们就开始揭发我和我那农场上漆黑的狐狸。
 
-> **Sensible Hipster Standing on Curb in Urban Wilderness**: He calls himself
-> the lucky stiff.
+> **明智的行家控制城市的荒野**：他称自己为幸运的尸体。
 
-> (Pulls aside curtain to reveal gray corpse on a gurney.)
+> （拉起窗帘，露出轮床上灰色的尸体）
 
-> **Hipster**: Some stiffs ain’t so lucky.
+> **行家**: 有些尸体并没有那么走运.
 
-> (Erratic zoom in. Superimposed cartoon foxes for subliminal Willy Wonka mind
-> trip.)
+> （不稳定的放大。叠加卡通狐狸成为Willy Wonka潜意识上的心灵之旅。）
 
 Yo. Why you gotta dis Big Smokies like dat, Holmes?
 
