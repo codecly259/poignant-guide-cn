@@ -123,16 +123,16 @@ Pokemon!")
 
 > （不稳定的放大。叠加卡通狐狸成为Willy Wonka潜意识上的心灵之旅。）
 
-Yo. Why you gotta dis Big Smokies like dat, Holmes?
+哟，为什么你非要弄这样烟雾缭绕，就像那福尔摩斯一样？
 
-**<span class="caps">IDEA TWO</span>: HEY, <span class="caps">FIRING
-SQUAD</span>**
+**<span class="caps">想法二</span>: 嘿, <span class="caps">团队激励</span>**
 
 Like I said, start selling copies of my book, but corrupt the text. These
 altered copies would contain numerous blatant (and libelous) references to
 government agencies, such as the U.S. Marshals and the Pentagon. You could make
 me look like a complete traitor. Like I have all these plans to, you know, kill
 certain less desirable members of the U.S. Marshals or the Pentagon.
+如我所说，
 
 Not that there are any less desirable members of the U.S. Marshals or the
 Pentagon. Yeah, I didn’t mean it like that.
