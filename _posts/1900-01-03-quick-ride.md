@@ -127,39 +127,31 @@ Pokemon!")
 
 **<span class="caps">想法二</span>: 嘿, <span class="caps">团队激励</span>**
 
-Like I said, start selling copies of my book, but corrupt the text. These
-altered copies would contain numerous blatant (and libelous) references to
-government agencies, such as the U.S. Marshals and the Pentagon. You could make
-me look like a complete traitor. Like I have all these plans to, you know, kill
-certain less desirable members of the U.S. Marshals or the Pentagon.
-如我所说，
+如我所说，开始卖我的盗版书，但是腐败我的文字。这些改变了的副本将包含大量的
+公开（和诽谤）引用政府机构，如美国执法官和五角大楼。你可以让我看起来想一个
+彻底的叛徒。就像我有这些计划一样：杀害有些不和人意的美国政府或五角大楼的官员。
 
-Not that there are any less desirable members of the U.S. Marshals or the
-Pentagon. Yeah, I didn’t mean it like that.
+我并不是说美国执法官或者五角大楼的官员有什么不和人意的地方。是的，我不是那个意思。
 
-Oh, crap.
+哦，废话。
 
-Oh, crap. Oh, crap. Oh, crap.
+哦，废话。哦，废话。哦，废话。
 
-Turn off the lights. Get down.
+把灯关掉。下来。
 
-**<span class="caps">IDEA THREE</span>: BILLBOARDS, <span class="caps">PART
-II</span>**
+**<span class="caps">想法三</span>: 广告牌, <span class="caps">第二部分</span>**
 
-How about making fun of asthmatics directly?
+关于哮喘的直接乐趣？
 
 ![Call it a puffer! ROFL!](../images/the.foxes-0b.png "Call it a puffer! ROFL!")
 
-**<span class="caps">IDEA FOUR</span>: ALEC <span class="caps">BALDWIN</span>**
+**<span class="caps">想法四</span>: 亚力克 <span class="caps">鲍德温</span>**
 
-Adapt the book into a movie. And since, you know, I’m a character in this book,
-you could get someone like Alec Baldwin to play me. Someone who’s at a real
-low point in his career.
+把这本书改编成电影。然后，你知道，我是这本书的一个角色，你可以找一个像Alec Baldwin
+的演员来演我。他正在职业生涯一个困难时期。
 
-You could make it seem like I did tons of drugs. Like I was insane to work with.
-Like I kept firing people and locking them in the scooter room and making them
-wear outfits made of bread. Yeah, like I could actually be _baking_ people into
-the outfits.
+你可以使他看起来像我一样在吸毒品。像我一样疯癫。像我一样把人们锁在摩托车房间，
+让他们穿着面包做的衣服，然后一直放火烤他们。是的，像我这样把人们*烘焙*成衣服。
 
 You could have this huge mold that I strap people into. Then, I pour all the
 dough on them and actually bake them until the bread has risen and they’ve
