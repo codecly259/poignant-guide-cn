@@ -153,31 +153,23 @@ Pokemon!")
 你可以使他看起来像我一样在吸毒品。像我一样疯癫。像我一样把人们锁在摩托车房间，
 让他们穿着面包做的衣服，然后一直放火烤他们。是的，像我这样把人们*烘焙*成衣服。
 
-You could have this huge mold that I strap people into. Then, I pour all the
-dough on them and actually bake them until the bread has risen and they’ve
-almost died. And when the television crews come and I’m on Good Morning America,
-they’ll ask, “So, how many people have you employed in the production of your
-book?” And I’d respond, “A baker’s dozen!” and erupt into that loud maniacal
-laughing that would force audience members to cup their hands over their ears.
+你可以制造一个巨大的模具，把人们赶到里面去。然后，我倒入所有的面团开始烘烤，
+直到面团已经上升，他们已经几乎死亡。而当摄制组把我请到美国早间新闻节目时，
+他们会问，“那么，在你制作书的过程中你雇了多少员工呢？”然后我回答道，“一打面包师！”
+并爆发出疯狂的大笑声，这将迫使观众举起手来捂住耳朵。
 
-Of course, in the throes of my insanity, I would declare war on the world. The
-bread people would put up quite a fight. Until the U.S. Marshals (or the
-Pentagon) engineer a giant robotic monkey brain (played by Burt Lancaster) to
-come after me.
+当然，在我疯狂挣扎的时候，我将向世界宣战。面包人将要参加相当多的战斗。直到美国执法官
+（或者五角大楼）设计一个巨大的猴子大脑机器人（由Burt Lancaster饰演）来和我作战。
 
-Here’s where you’ll make me look completely lame. Not only will I sacrifice all
-of the bread people (the Starchtroopers) to save myself, not only will I
-surrender to the great monkey brain like a coward, but when I narrowly escape,
-I’ll yell at the audience. Screaming insistently that it’s _MY_ movie and no one
-should see it any more, I’ll rip the screen in half and the film projector will
-spin with its reel flapping in defeat. And that will be the end of the movie.
-People will be _so_ pissed.
+在这里你将使我看起来完全就像一个瘸子一样。我不仅要牺牲所有的面包人（星河战队）以
+拯救自己，我不仅要像一个懦夫一样从巨猴大脑手里逃脱，而且当我勉强的逃离时，我还要
+骂观众。坚持不懈的尖叫，这是*我的*电影，没有人会再看到它，我将撕裂一半屏幕，电影放映机
+将在破烂的卷轴中旋转。而且那就是电影的结尾。人们将*非常*愤怒。
 
-Now, I’ve got to thinking. See, and actually, Alec Baldwin did a decent
-voiceover in _The Royal Tenenbaums_. His career might be okay. You might not
-want to use him. He might not do it.
+现在，我得思考。你看，实际上，Alec Baldwin在*特南鲍姆一家*中做一个体面的旁白。
+他的职业生涯可能是正确的。你可能不想用他，他可能也不想做这个。
 
-Tell ya what. I’ll play the part. I’ve made a career out of low points.
+告诉你。我要做好这个角色。我已经走出了职业生涯的最低点。
 {% endcapture %}
 {{ sidebar | markdownify }}
 </aside></div>
