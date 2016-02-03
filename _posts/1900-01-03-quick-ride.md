@@ -472,15 +472,10 @@ truth.")
 但是有时候人们需要沉湎于自我怀疑中将手风琴小心的挤压在一起。）圆括号就是小型手持手风琴两侧的手柄。
 中间的点就是链，保持手风琴紧紧地折叠在一起。
 
-Normally, only two dots are used. If a third dot is used, the last value in the
-range is excluded.
 通常，只有两个点被使用。如果第三个点被使用了，该范围的最后一个值会被排除。
 
 * `(0...5)` 表示数字0至4。
 
-When you see that third dot, imagine opening the accordion slightly. Just enough
-to let one note from its chamber. The note is that end value. We’ll let the sky
-eat it.
 当你看到了第三个点，想象轻微打开的手风琴。只是足够让一个音符从它的室内露出。那个音符就是
 那最后的值。我们让天空吃了溢出的最后的值。
 
@@ -491,111 +486,96 @@ eat it.
 * `[1, 2, 3]` 是一个数字数组。
 * `['coat', 'mittens', 'snowboard']` 是一个字符串数组。
 
-Think of it as a caterpillar which has been stapled into your code. The two
-square brackets are staples which keep the caterpillar from moving, so you can
-keep track of which end is the head and which is the tail. The commas are the
-caterpillar’s legs, wiggling between each section of its body.
+把它看成是被钉进你代码的毛毛虫。那两个中括号就是防止毛毛虫移动的钉子，所以你可以
+在头和尾之间保持联系。那些逗号就是毛毛虫的腿，可以让身体的各个部分保持摆动。
 
-Once there was a caterpillar who had commas for legs. Which meant he had to
-allow a literary pause after each step. The other caterpillars really respected
-him for it and he came to have quite a commanding presence. Oh, and talk about a
-philanthropist! He was notorious for giving fresh leaves to those
-less-fortunate.
+从前有个毛毛虫，他用逗号当做脚。那意味着他必须允许每一步之后做一个文学上的暂定。
+其他毛毛虫为此非常尊重他，他也因此威风凛凛。哦，我们来谈谈慈善家！他以捐赠新鲜的叶子
+给那些不太幸运的家伙而出名。
 
 Yes, an array is a collection of things, but it also keeps those things in a
 specific order.
+是的，数组是事物的集合，并且他是那些事物保持特定的顺序。
 
-### Hashes
+### 哈希表
 
-A hash is a dictionary surrounded by **curly braces**. Dictionaries match words
-with their definitions. Ruby does so with **arrows** made from an equals sign,
-followed by a greater-than sign.
+一个哈希表是一个被**花括号**包围的字典。字典匹配单词和他们的定义。Ruby中通过**箭头**
+来对应，一个等于号后面加上一个大于号。
 
-`{'a' => 'aardvark', 'b' => 'badger'}` is an example.
+例如：`{'a' => 'aardvark', 'b' => 'badger'}` 。
 
-This time, the curly braces represent little book symbols. See how they look
-like little, open books with creases down the middle? They represent opening and
-closing our dictionary.
+这次，花括号代表书卷的符号。看他们多么像书卷啊，打开书并在中间折开？他们代表打开
+和关闭我们的字典。
 
-Imagine our dictionary has a definition on each of its pages. The commas
-represent the corner of each page, which we turn to see the next definition. And
-on each page: a word followed by an arrow pointing to the definition.
+想象我们的字典对它的每一个都有一个定义。逗号表示每一页的拐角，我们在那里翻向下一个定义。
+而且在每一页：一个单词后面跟着箭头指向的定义。
 
 {% highlight rb %}
 { 'name' => 'Peter', 'profession' => 'lion tamer', 'great love' => 'flannel' }
 {% endhighlight %}
 
-I’m not comparing hashes to dictionaries because you can only store definitions
-in a hash. In the example above, I stored personal information for Peter, the
-lion tamer with a great love for flannel. Hashes are like dictionaries because
-they can be very easy to search through.
+我不是在比较哈希表和字典，因为你只能够在一个哈希表中保存定义。在上面的例子中，
+我保存了Peter的个人信息，以及热爱法兰绒驯兽师的个人信息。哈希表就像字典以为
+他们都非常容易搜索。
 
 ![The foxes think silence will kill the comic.](../images/the.foxes-5.png "The
 foxes think silence will kill the comic.")
 
-### Regular Expressions
+### 正则表达式
 
-A regular expression (or _regexp_) is a set of characters surrounded by
-**slashes**.
+正则表达式（*regexp*）就是被**斜杠**包围的一组字符。
 
-`/ruby/`, `/[0-9]+/` and `/^\d{3}-\d{3}-\d{4}/` are examples.
+例如：`/ruby/`, `/[0-9]+/` 和 `/^\d{3}-\d{3}-\d{4}/` 。
 
-Regular expressions are used to find words or patterns in text. The slashes on
-each side of the expression are pins.
+正则表达式被用于在文本中寻找匹配的单词或规则。两端的斜杠就是插脚。
 
-Imagine if you had a little word with pins on both side and you held it over a
-book. You pass the word over the book and when it gets near a matching word, it
-starts blinking. You pin the regular expression onto the book, right over the
-match and it glows with the letters of the matching word.
+试想一下，你有一个两边带有插脚的单词，把它放到一本书中。你把它穿过书的内容，每当
+遇到和它相同单词的时候就开始发亮。你把这个正则表达式订到书里面，每当路过匹配的词语
+就使词语发光。
 
-Oh, and when you poke the pins into the book, the paper sneezes, _reg-exp!_
+哦，当你把插脚刺在书里面时，纸打喷嚏了，*reg-exp!*
 
-Regular expressions are much faster than passing your hand over pages of a book.
-Ruby can use a regular expression to search volumes of books very quickly.
+正则表达式比你手动经过书页要快得多。Ruby可以使用正则表达式快速的搜索大量的书籍。
 
-### Operators
+### 运算符
 
-You’ll use the following list of operators to do math in Ruby or to compare
-things. Scan over the list, recognize a few. You know, addition `+` and
-subtraction `-` and so on.
+在Ruby中，你将使用下列运算符做运算或者比较东西。扫描整个列表，认识一些。
+要知道，加法`+`和减法`-`等等。
 
     ** !  ~  *  /  %  +  -  &
     << >> |  ^  >  >= <  <= <=>
     || != =~ !~ && += -= == ===
     .. ... not and or
 
-### Keywords
+### 关键字
 
-Ruby has a number of built-in words, imbued with meaning. These words cannot be
-used as variables or changed to suit your purposes. Some of these we’ve already
-discussed. They are in the safe house, my friend. You touch these and you’ll be
-served an official syntax error.
+Ruby有一些内置的单词，充满了意义。这些单词不能用来作为变量名，也不能改变他们以适合
+你的用途。其中的一些我们已经讨论过了。朋友，他们在一个安全的屋子里。你触摸这些，
+那么你将获得一个官方的语法错误。
 
     alias   and     BEGIN   begin   break   case    class   def     defined
     do      else    elsif   END     end     ensure  false   for     if
     in      module  next    nil     not     or      redo    rescue  retry
     return  self    super   then    true    undef   unless  until   when
     while   yield
+	
+够好了。这些都是Ruby语言的杰出成员。我们将在下三章有相当多的接触，粘合这些零件
+组合成睿智的（感人）代码。
 
-Good enough. These are the illustrious members of the Ruby language. We’ll be
-having quite the junket for the next three chapters, gluing these parts together
-into sly bits of (poignant) code.
-
-I’d recommend skimming all of the parts of speech once again. Give yourself a
-broad view of them. I’ll be testing your metal in the next section.
+我建议再次浏览所有的词类。给自己一个关于词类的广阔视野。我将在下一节中测试你的效果。
 
 ![Out in the pickup truck.](../images/the.foxes-6.png "Out in the pickup
 truck.")
 
 <div class=sidebar><aside>
 {% capture sidebar %}
-## Seven Moments of Zen from My Life
+## 我生活中有关禅的7个片段
 
-1. 8 years old. Just laying in bed, thinking. And I realize. _There’s nothing
-stopping me from becoming a child dentist._
+1. 8岁的时候。我躺在床上，思考着。突然我意识到，*没有什么能阻止我成为一个儿童牙医*
 2. 21\. Found a pencil on the beach. Embossed on it: _I cherish serenity._ Tucked
 it away into the inside breast pocket of my suit jacket. Watched the waves come
 and recede.
+2. 21\.在海滩上发现一个铅笔。
 3. 22\. Found a beetle in my bathroom that was just about to fall into a heating
 vent. Swiped him up. Tailored him a little backpack out of a leaf and a thread.
 In the backpack: a skittle and a <span class="caps">AAA</span> battery. That
