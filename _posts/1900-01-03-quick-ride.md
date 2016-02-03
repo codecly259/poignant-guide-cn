@@ -176,63 +176,53 @@ Pokemon!")
 
 <a name="section2"></a>
 
-## 2. The Parts of Speech
+## 2. 词性
 
-Just like the white stripe down a skunk’s back and the winding, white train of a
-bride, many of Ruby’s parts of speech have visual cues to help you identify
-them. Punctuation and capitalization will help your brain to see bits of code
-and feel intense recognition. Your mind will frequently yell _Hey, I know that
-guy!_ You’ll also be able to name-drop in conversations with other Rubyists.
+就像臭鼬背部的白色条纹，新娘飘动的白裙一样，ruby的很多词性都有特别的视觉提示，以帮助你
+识别它们。标点符号和大小写将帮助你的大脑很好的辨别看到的代码。你会在心里大喊*嘿，我认识这家伙！*
+你也可以在与其他Ruby爱好者谈话中这样来提高自己的身份。
 
-Try to focus on the look of each of these parts of speech. The rest of the book
-will detail the specifics. I give short descriptions for each part of speech,
-but you don’t have to understand the explanation. By the end of this chapter,
-you should be able to recognize every part of a Ruby program.
+尝试着关注每个词性的长相。下面本书将详细的介绍这些特性。我给每个词性都归纳了一些简短的描述，
+你不需要理解那些解释。在这章的结尾，你应该能够认识Ruby语言的每个词性。
 
-### Variables
+### 变量
 
-Any plain, lowercase word is a variable in ruby. Variables may consist of
-letters, digits and underscores.
+在ruby中每个普通的小写单词都是一个变量。变量可能由字母、数字和下划线组成。
 
-`x`, `y`, `banana2` or `phone_a_quail` are examples.
+例如：`x`, `y`, `banana2` 或者 `phone_a_quail` 。
 
-Variables are like nicknames. Remember when everyone used to call you Stinky
-Pete? People would say, “Get over here, Stinky Pete!” And everyone miraculously
-knew that Stinky Pete was you.
+变量就好比一个昵称。还记得过去人们都叫你臭Pete吗？人们可能说，“走开，臭Pete!”
+并且所有人都奇迹般的知道臭Pete就是你。
 
-With variables, you give a nickname to something you use frequently. For
-instance, let’s say you run an orphanage. It’s a mean orphanage. And whenever
-Daddy Warbucks comes to buy more kids, we insist that he pay us **one-hundred
-twenty-one dollars and eight cents** for the kid’s teddy bear, which the kid has
-become attached to over in the darker moments of living in such nightmarish
-custody.
+变量，就是你给频繁用到的东西取个昵称。比如，我们假设你开了一个孤儿院。这是一个吝啬的孤儿院。
+每当Warbucks爸爸过来领养孩子时，我们坚持让他付给我们**一百二十一美元八美分**来购买孩子的泰迪熊，
+那是孩子在黑夜中和在这噩梦般环境中的唯一依赖。
+
 
 {% highlight rb %}
 teddy_bear_fee = 121.08
 {% endhighlight %}
 
-Later, when you ring him up at the cash register (a really souped-up cash
-register which runs Ruby!), you’ll need to add together all his charges into a
-**total**.
+后来，让你让他在收银机（一个运行ruby程序的强大马力的收银机）上按下按钮时，
+你需要将所有的费用加起来作为**总额**。
 
 {% highlight rb %}
 total = orphan_fee + teddy_bear_fee + gratuity
 {% endhighlight %}
 
-Those variable nicknames sure help. And in the seedy underground of child sales,
-any help is appreciated I’m sure.
+那些变量的昵称当然有帮助。而在破旧的地下销售儿童过程中，我保证任何帮助都将获得赞赏。
 
 ![They mock my examples.](../images/the.foxes-4a.png "They mock my examples.")
 
-### Numbers
+### 数字
 
-The most basic type of number is an _integer_, a **series of digits** which can
-start with a **plus or minus sign**.
+数字中最基本类型就是*integer*了，以**加号或减号**开头的**一连串的数字**。
 
-`1`, `23`, and `-10000` are examples.
+例如：`1`, `23`, 和 `-10000`。
 
 Commas are not allowed in numbers, but underscores are. So if you feel the need
 to mark your thousands so the numbers are more readable, use an underscore.
+
 
 {% highlight rb %}
 population = 12_000_000_000
