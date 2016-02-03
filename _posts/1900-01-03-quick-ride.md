@@ -220,32 +220,28 @@ total = orphan_fee + teddy_bear_fee + gratuity
 
 例如：`1`, `23`, 和 `-10000`。
 
-Commas are not allowed in numbers, but underscores are. So if you feel the need
-to mark your thousands so the numbers are more readable, use an underscore.
-
+逗号是不允许出现在数字中的，但是可以用下划线代替。所以如果你觉得需要在数字中用千位分开，
+那就使用下划线吧。
 
 {% highlight rb %}
 population = 12_000_000_000
 {% endhighlight %}
 
-Decimal numbers are called _floats_ in Ruby. Floats consist of numbers with **a
-decimal place** or **scientific notation**.
+在Ruby中浮点数叫做*floats*。浮点数包含**小数点**或者使用**科学计数法**。
 
-`3.14`, `-808.08` and `12.043e-04` are examples.
+例如：`3.14`, `-808.08` 和 `12.043e-04` 。
 
-### Strings
+### 字符串
 
-Strings are any sort of characters (letters, digits, punctuation) surrounded by
-quotes. Both single and double **quotes** are used to create strings.
+字符串是使用引号包起来的任意多个字符（字母，数字，标点符号）的组合。**单引号和双引号**
+都可以用来创建字符串。
 
-`"sealab"`, `'2021'`, or `"These cartoons are hilarious!"` are examples.
+例如：`"sealab"`, `'2021'`, 或者 `"These cartoons are hilarious!"` 。
 
-When you enclose characters in quotes, they are stored together as a single
-string.
+当你把字符放到引号中，他们被一起保存成一个单独的字符串。
 
-Think of a reporter who is jotting down the mouth noises of a rambling celebrity.
-“I’m a lot wiser,” says Avril Lavigne. “Now I know what the business is
-like—what you have to do and how to work it.”
+想想一个记者粗略的记录一个名人的闲谈。”我是多么的聪明，“Avril Lavigne说道。
+”现在我知道商业是什么了——你必须要做哪些事并且怎么去做。“
 
 {% highlight rb %}
 avril_quote = "I'm a lot wiser.  Now I know
@@ -253,10 +249,9 @@ what the business is like -- what you have
 to do and how to work it."
 {% endhighlight %}
 
-So, just as we stored a number in the **teddy_bear_fee** variable, now we’re
-storing a collection of characters (a string) in the **avril_quote** variable.
-The reporter sends this quote to the printers, who just happen to use Ruby to
-operate their printing press.
+所以，就像我们保存一个数字在变量**teddy_bear_fee**中一样，现在我们正在保存一个
+字符集合（字符串）到变量**avril_quote**中。那个记者把这段引用输入打印机，他碰巧
+使用Ruby来处理打印操作。
 
 {% highlight rb %}
 print oprah_quote
@@ -267,188 +262,158 @@ print ashlee_simpson_debacle
 ![They desire to be in my examples.](../images/the.foxes-4b.png "They desire to
 be in my examples.")
 
-### Symbols
+### 名字
 
-Symbols are words that look just like variables. Again, they may contain
-letters, digits, or underscores. But they **start with a colon**.
+名字就和变量看起来差不多。同样，他们也是由字母，数字或者下划线组成。但是，他们是
+由**由冒号开头**。
 
-`:a`, `:b`, or `:ponce_de_leon` are examples.
+例如：`:a`, `:b`, 或者 `:ponce_de_leon` 。
 
-Symbols are lightweight strings. Usually, symbols are used in situations where
-you need a string but you won’t be printing it to the screen.
+名字是轻量级的字符串。通常，symbols使用在你需要一个字符串但是不会把它打印在屏幕的情况下。
 
-You could say a symbol is a bit easier on the computer. It’s like an antacid.
-The colon indicates the bubbles trickling up from your computer’s stomach as it
-digests the symbol. Ah. Sweet, sweet relief.
+你可以说一个名字可以更简单的在电脑中使用。它就像一个抗酸剂。那个冒号表示气泡在你计算机的肠胃中
+缓缓上浮就像它消化了symbol一样。啊，甜美，甜美的救济。
 
 ![Chunky bacon!!](../images/the.foxes-4c.png "Chunky bacon!!")
 
-### Constants
+### 常量
 
-Constants are words like variables, but constants are **capitalized**. If
-variables are the nouns of Ruby, then think of constants as the proper nouns.
+常量的单词就像变量一样，但是常量是**大写的**。如果变量是Ruby的名词，那么把变量想象成专有名词。
 
-`Time`, `Array` or `Bunny_Lake_is_Missing` are examples.
+例如：`Time`, `Array` or `Bunny_Lake_is_Missing` 。
 
-In English, proper nouns are capitalized. The Empire State Building. You can’t
-just move The Empire State Building. You can’t just decide that the Empire State
-Building is something else. Proper nouns are like that. They refer to something
-very specific and usually don’t change over time.
+在英语中，专有名词是大写的。The Empire State Building（帝国大厦）。你不能移走帝国大厦。
+你甚至不能把帝国大厦想象成其他事物。专有名字就像那样。他们指代那些非常特别并且通常不会因为时间改变的事物。
 
-In the same way, constants can’t be changed after they are set.
+同样的道理，常量在赋值之后也不能被改变。
 
 {% highlight rb %}
 EmpireStateBuilding = "350 5th Avenue, NYC, NY"
 {% endhighlight %}
 
-If we try to change the constant, Ruby will complain to us. Such things are
-frowned upon.
+如果我们试图改变常量，Ruby会抱怨我们。这样的事情是不推荐的。
 
 ![Come on, chunky bacon.](../images/the.foxes-4d.png "Come on, chunky bacon.")
 
-### Methods
+### 方法
 
-If variables and constants are the nouns, then methods are the verbs. Methods
-are usually attached to the end of variables and constants by a **dot**. You’ve
-already seen methods at work.
+如果把变量和常量比作名词，那么方法可以比作动词。方法通常是在变量或者常量的后面并且通过一个**点**
+连接。你已经看到方法在工作了。
 
 {% highlight rb %}
 front_door.open
 {% endhighlight %}
 
-In the above, **open** is the method. It is the action, the verb. In some cases,
-you’ll see actions chained together.
+上面的代码中，**open**就是方法。它是一个行为，是个动词。在一些情况在，你将看到一些行为连接在一起。
 
 {% highlight rb %}
 front_door.open.close
 {% endhighlight %}
 
-We’ve instructed the computer to open the front door and then immediately close
-it.
+我们已经指示电脑把前门打开，然后再立刻把门关上。
 
 {% highlight rb %}
 front_door.is_open?
 {% endhighlight %}
 
-The above is an action as well. We’re instructing the computer to test the door
-to see if it’s open. The method could be called `Door.test_to_see_if_its_open`,
-but the `is_open?` name is succinct and just as correct. Both exclamation marks
-and question marks may be used in method names.
+上面也是一个行为。我们正在指示电脑去检查门是否敞开的。这个方法可以这样写
+`Door.test_to_see_if_its_open`,但是`is_open?`更加简明而且也是正确的。感叹号和
+问号也可能出现在方法名中。
 
-### Method arguments
+### 方法参数
 
-A method may require more information in order to perform its action. If we want
-the computer to paint the door, we should provide a color as well.
+一个方法可能需要更多的信息去执行它的行为。如果我们想要电脑去给门喷漆，我们应该提供颜色。
 
-Method arguments are attached to the end of a method. The arguments are usually
-surrounded by **parentheses** and separated by **commas**.
+方法参数在方法名的末尾。参数经常被**括号**包围，并且被**逗号**分开。
 
 {% highlight rb %}
 front_door.paint( 3, :red )
 {% endhighlight %}
 
-The above paints the front door 3 coats of red.
+上面的代码给前门涂上了3个红色的外套。
 
-Think of it as an inner tube the method is pulling along, containing its extra
-instructions. The parentheses form the wet, round edges of the inner tube. The
-commas are the feet of each argument, sticking over the edge. The last argument
-has its feet tucked under so they don’t show.
+你可以把这想象成方法正在沿着内轮胎边缘拉动，包括他的额外指令。括号是带着内管的湿气。
+那些逗号是每个参数的脚，贴在边缘。最后一个参数把它的脚盘着在，我们就不展示了。
 
-Like a boat pulling many inner tubes, methods with arguments can be chained.
+带着方法的参数连接在一起，就像一艘船拉着许多内胎。
 
 {% highlight rb %}
 front_door.paint( 3, :red ).dry( 30 ).close()
 {% endhighlight %}
 
-The above paints the front door 3 coats of red, dries for 30 minutes, and closes
-the door. Even though the last method has no arguments, you can still put
-parentheses if you like. There is no use dragging an empty inner tube, so the
-parentheses are normally dropped.
+上面的代码把前门涂上3件红色的外套，烘干20分钟，然后关上门。即使最后一个方法没有参数，
+如果你愿意的话也可以加上括号。拖着一个空的内胎也没有什么意义，所以那个括号通常都省略掉。
 
-Some methods (such as `print`) are kernel methods. These methods are used
-throughout Ruby. Since they are so common, you won’t use the dot.
+有些方法（例如`print`）是核心方法。这些方法是在Ruby中自始至终都会用到。以为他们太常见，
+你可以不适用点来引用。
 
 {% highlight rb %}
 print "See, no dot."
 {% endhighlight %}
 
-### Class methods
+### 类方法
 
-Like the methods described above (also called _instance_ methods), class methods
-are usually attached after variables and constants. Rather than a dot, a
-**double colon** is used.
+就如上面描述的方法（也叫*实例*方法）一样，类方法也是经常在变量和常量后面。
+这里不是使用点，而是使用**双冒号**来引用。
 
 {% highlight rb %}
 Door::new( :oak )
 {% endhighlight %}
 
-As seen above, the `new` class method is most often used to create things. In
-the above example, we’re asking Ruby to make a new oak door for us. Of course,
-Ruby has to have an understanding of how to make a door—as well as a wealth of
-timber, lumberjacks, and those long, wiggly, two-man saws.
+如上面看到的，这个`new`类方法经常用来创建事物。在上面的例子中，我们正在请求Ruby
+来为我们创建一个新的橡木门。当然，Ruby必须能够理解怎样制造一个门——也是就大量的木材，
+伐木工人和那些长长的扭动的二人锯片。
 
 ![Plenty of chunky bacon to go around.](../images/the.foxes-4e.png "Plenty of
 chunky bacon to go around.")
 
-### Global variables
+### 全局变量
 
-Variables which begin with a **dollar sign** are global.
+那些以**美元符号**开头的变量是全局的。
 
-`$x`, `$1`, `$chunky` and `$CHunKY_bACOn` are examples.
+例如：`$x`, `$1`, `$chunky` 和 `$CHunKY_bACOn` 。
 
-Most variables are rather temporary in nature. Some parts of your program are
-like little houses. You walk in and they have their own variables. In one house,
-you may have a `dad` that represents Archie, a traveling salesman and skeleton
-collector. In another house, `dad` could represent Peter, a lion tamer with a
-great love for flannel. Each house has its own meaning for `dad`.
+大部分变量本质上都是临时的。你程序的某些部分就像是一个小房子，你走进去看到他们有自己的变量。
+在一个房间里，你可能有一个`dad`代表着Archie,一个旅行推销员和一个古玩收藏家。
+在另一个房间，`dad`可以代表Peter,一个爱穿法兰绒的训狮者。每个房间都有对于`dad`自己的意思。
 
-With global variables, you can be guaranteed that the variable is the same in
-every little house. The dollar sign is very appropriate. Every American home
-respects the value of the dollar. We’re crazy for the stuff. Try knocking on any
-door in America and hand them cash. I can guarantee you won’t get the same
-reaction if you knock on a door and offer Peter, a lion tamer with a great love
-for flannel.
+使用全局变量，你能够保证这个变量在每个小房间里都代表相同的意思。美元符号是非常合适的。
+每个美国家庭都认同美元的价值。我们为之疯狂的东西。在美国，试着敲任何一扇门，然后给他们现金。
+我敢保证，如果你敲门并给他们热爱法兰绒的驯兽师Peter，肯定不会得到相同的反应。
 
-Global variables can be used anywhere in your program. They never go out of
-sight.
+全局变量可以用在程序的任何地方。他们永远不会淡出人们的视野。
 
-### Instance variables
+### 实例变量
 
-Variables which begin with an **at** symbol are instance variables.
+那些以**@**标识符开头的变量称为实例变量。
 
-`@x`, `@y`, and `@only_the_chunkiest_cut_of_bacon_I_have_ever_seen` are
-examples.
+例如：`@x`, `@y`, 和 `@only_the_chunkiest_cut_of_bacon_I_have_ever_seen` 。
 
-These variables are often used to define the attributes of something. For
-example, you might provide Ruby with the width of the `front_door` by setting
-the `@width` variable inside that `front_door`. Instance variables are used to
-define characteristics of a single object in Ruby.
+这些变量经常用来定义事物的属性。例如，你可能通过设置`front_door`里面的变量`@width`值来给Ruby
+提供`front_door`的宽度。在Ruby中，实例变量被用来定义单一对象的特性。
 
-Think of the **at** symbol as meaning **attribute**.
+把**@(at)**标识符想象成**属性(attribute)**
 
-### Class variables
+### 类变量
 
-Variables which begin with **double at** symbols are class variables.
+那些以**两个at(@@)**开头的变量称为类变量。
 
-`@@x`, `@@y`, and `@@i_will_take_your_chunky_bacon_and_raise_you_two` are
-examples.
+例如`@@x`, `@@y`, 和 `@@i_will_take_your_chunky_bacon_and_raise_you_two` 。
 
-Class variables, too, are used to define attributes. But rather than defining an
-attribute for a single object in Ruby, class variables give an attribute to many
-related objects in Ruby. If instance variables set attributes for a single
-`front_door`, then class variables set attributes for everything that is a
-`Door`.
+类变量，也是用来定义属性的。但在Ruby中不是定义一个单一对象的属性，而是定义多个对象
+的关联属性。如果实例变量是用来设置了单一对象`front_door`的属性，那么类变量用来设置`Door`
+的每个属性。
 
-Think of the **double at** prefix as meaning **attribute all**. Additionally,
-you can think of a swarm of **AT-ATs** from _Star Wars_, which are all commanded
-by Ruby. You change a class variable and not just one changes, they all change.
+把**@@**想象成**所有属性(attribute all)**的前缀。此外，你可以从*星球大战*中想象
+一大群**AT-ATs**，全部听从Ruby的命令。你改变一个类变量并不是改变一个，他们所有的
+都会改变。
 
 ![Woohoo! Chunky bacon accomplished!](../images/the.foxes-4f.png "Woohoo! Chunky
 bacon accomplished!")
 
-### Blocks
+### 程序块
 
-Any code surrounded by **curly braces** is a block.
+每段被**花括号**包围的代码都是一个程序块。
 
 {% highlight rb %}
 2.times {
@@ -456,18 +421,15 @@ Any code surrounded by **curly braces** is a block.
 }
 {% endhighlight %}
 
-With blocks, you can group a set of instructions together so that they can be
-passed around your program. The curly braces give the appearance of crab pincers
-that have snatched the code and are holding it together. When you see these two
-pincers, remember that the code inside has been pressed into a single unit.
+使用程序块，你能够把一些指令集合到一起，然后他们可以在程序中传递。花括号就好像
+螃蟹的两个钳子抢走了代码并把他们围在了一起。当你看到这两个钳子，记住里面的代码
+已经被压成一个单元。
 
-It’s like one of those little Hello Kitty boxes they sell at the mall that’s
-stuffed with tiny pencils and microscopic paper, all crammed into a glittery
-transparent case that can be concealed in your palm for covert stationery
-operations. Except that blocks don’t require so much squinting.
+它就像那些小小的Hello Kitty盒子一样，里面装满了小铅笔盒小橡皮放在购物广场上出售，
+它们所有的都使用透明的闪烁的包装，好让它们可以放在手上以隐蔽它们的文具属性。
+除了程序块不要求眯着要看其他地方都是一个道理。
 
-The curly braces can also be traded for the words **do** and **end**, which is
-nice if your block is longer than one line.
+花括号也可以使用单词**do**和**end**代替，当你的程序块多余一行时这将很好。
 
 {% highlight rb %}
 loop do
@@ -477,63 +439,57 @@ loop do
 end
 {% endhighlight %}
 
-### Block arguments
+### 参数块
 
-Block arguments are a set of variables surrounded by **pipe** characters and
-separated by **commas**.
+参数块是被**管状符**包围并用**逗号**分割的一组变量。
 
-`|x|`, `|x,y|`, and `|up, down, all_around|` are examples.
+例如：`|x|`, `|x,y|`, 和 `|up, down, all_around|` 。
 
-Block arguments are used at the beginning of a block.
+参数块被用再一个程序块的开头。
 
 {% highlight rb %}
 { |x,y| x + y }
 {% endhighlight %}
 
-In the above example, `|x,y|` are the arguments. After the arguments, we have a
-bit of code. The expression `x + y` adds the two arguments together.
+在上面的例子中，`|x,y|`是参数。在参数后面，我们有一些代码。表达式`x + y`将两个参数加起来。
 
-I like to think of the pipe characters as representing a tunnel. They give the
-appearance of a chute that the variables are sliding down. (An `x` goes down
-spread eagle, while the `y` neatly crosses her legs.) This chute acts as a
-passageway between blocks and the world around them.
+我喜欢将管状符比作一个隧道。他们就像一个斜槽，而变量顺着滑下。（正当`y`经过她的大腿时，
+`x`以鹰速下降）这个斜槽充当着程序块和它周围事物的一个通道。
 
-Variables are passed through this chute (or tunnel) into the block.
+变量通过这个斜槽（或者隧道）传入程序块中。
 
 ![And then, the dismal truth.](../images/the.foxes-4g.png "And then, the dismal
 truth.")
 
-### Ranges
+### 连续范围
 
-A range is two values surrounded by **parentheses** and separated by **an
-ellipsis** (in the form of two or three dots).
+范围是使用**圆括号**包围并使用**省略号**（以两个或者三个点的形式）分开的两个变量。
 
-* `(1..3)` is a range, representing the numbers 1 through 3.
-* `('a'..'z')` is a range, representing a lowercase alphabet.
+* `(1..3)` 是一个范围, 表示从1到3之间的数字。
+* `('a'..'z')` 是一个范围，表示小写字母表。
 
-Think of it as an accordion which has been squeezed down for carrying. (Sure,
-you can build a great sense of self-worth by carrying around an unfolded
-accordion, but sometimes a person needs to wallow in self-doubt, carefully
-concealing the squeeze-box.) The parentheses are the handles on the sides of a
-smaller, handheld accordion. The dots are the chain, keeping the folds tightly
-closed.
+把这想象成一个已经被挤倒便于携带的手风琴。（当然，你可以通过携带一个展开的手风琴来获得巨大的个人价值，
+但是有时候人们需要沉湎于自我怀疑中将手风琴小心的挤压在一起。）圆括号就是小型手持手风琴两侧的手柄。
+中间的点就是链，保持手风琴紧紧地折叠在一起。
 
 Normally, only two dots are used. If a third dot is used, the last value in the
 range is excluded.
+通常，只有两个点被使用。如果第三个点被使用了，该范围的最后一个值会被排除。
 
-* `(0...5)` represents the numbers 0 through 4.
+* `(0...5)` 表示数字0至4。
 
 When you see that third dot, imagine opening the accordion slightly. Just enough
 to let one note from its chamber. The note is that end value. We’ll let the sky
 eat it.
+当你看到了第三个点，想象轻微打开的手风琴。只是足够让一个音符从它的室内露出。那个音符就是
+那最后的值。我们让天空吃了溢出的最后的值。
 
-### Arrays
+### 数组
 
-An array is a list surrounded by **square brackets** and separated by
-**commas**.
+数组是由**方括号**包围并被**逗号**分割的一个列表。
 
-* `[1, 2, 3]` is an array of numbers.
-* `['coat', 'mittens', 'snowboard']` is an array of strings.
+* `[1, 2, 3]` 是一个数字数组。
+* `['coat', 'mittens', 'snowboard']` 是一个字符串数组。
 
 Think of it as a caterpillar which has been stapled into your code. The two
 square brackets are staples which keep the caterpillar from moving, so you can
