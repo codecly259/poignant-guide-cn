@@ -572,18 +572,15 @@ truck.")
 ## 我生活中有关禅的7个片段
 
 1. 8岁的时候。我躺在床上，思考着。突然我意识到，*没有什么能阻止我成为一个儿童牙医*
-2. 21\. Found a pencil on the beach. Embossed on it: _I cherish serenity._ Tucked
-it away into the inside breast pocket of my suit jacket. Watched the waves come
-and recede.
-2. 21\.在海滩上发现一个铅笔。
-3. 22\. Found a beetle in my bathroom that was just about to fall into a heating
-vent. Swiped him up. Tailored him a little backpack out of a leaf and a thread.
-In the backpack: a skittle and a <span class="caps">AAA</span> battery. That
-should last him. Set him loose out by the front gate.
-4. Three years of age. Brushed aside the curtain. Sunlight.
-5. 14\. Riding my bike out on the pier with my coach who is jogging behind me as
-the sun goes down right after I knocked out Piston Honda in the original
-Nintendo version of Mike Tyson’s Punch-Out.
+2. 21\. 在海滩上发现一个铅笔。在上面雕刻：*我喜欢宁静。*把它塞到我西装的内胸袋里。
+看着海浪拍来退去。
+3. 22\. 在我的浴室里发现一只正要陷入加热通风口的甲虫。把他抓上来。使用叶子和线给他
+量身定做一个背包。背包里放了一个柱子和一个<span class="caps">AAA</span>电池。
+那应该够他维持一段时间。把他放在宽敞的大门旁。
+4. 3岁的时候。拉开窗帘的一边，阳光照射进来。
+5. 14\. 我骑着自行车在码头上，我的教练紧跟着我后面慢跑。我在经典任天堂版泰森之拳中
+淘汰了活塞本田，此时太阳刚好下山。
+
 6. 11\. Sick. Watching Heathcliff on television. For hours, it was Heathcliff.
 And he was able to come right up close to my face. His head spun toward me. His
 face pulsed back and forth, up close, then off millions of miles away. Sound was
