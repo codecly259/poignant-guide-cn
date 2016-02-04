@@ -547,7 +547,7 @@ foxes think silence will kill the comic.")
     || != =~ !~ && += -= == ===
     .. ... not and or
 
-### 关键字
+### 关键词
 
 Ruby有一些内置的单词，充满了意义。这些单词不能用来作为变量名，也不能改变他们以适合
 你的用途。其中的一些我们已经讨论过了。朋友，他们在一个安全的屋子里。你触摸这些，
@@ -596,70 +596,60 @@ truck.")
 
 ## 3. 如果我没有把你当做小孩来看待已经足够了
 
-I’m proud of you. Anyone will tell you how much I brag about you. How I go on
-and on about this great anonymous person out there who scrolls and reads and
-scrolls and reads. “These kids,” I tell them. “Man, these kids got heart. I
-never…” And I can’t even finish a sentence because I’m absolutely blubbering.
-我以你为荣。
+我以你为荣。每个人都会告诉你，我是多么的吹嘘你。我该怎么继续这些伟大的匿名者，
+他们一边读着，一边滚动卷轴。“这些孩子，”我告诉他们。“伙计，这些孩子得到了心脏。我从未...”
+我甚至不能读完一个句子，因为我肯定会哭哭啼啼的。
 
-And my heart glows bright red under my filmy, translucent skin and they have to
-administer 10cc of JavaScript to get me to come back. (I respond well to toxins
-in the blood.) Man, that stuff will kick the peaches right out your gills!
+而我的心脏会在朦胧透明的皮肤下发出明亮的红光，他们必须给我注射10cc的JavaScript让我缓过神来。
+（我对血液中的毒素反应良好。）朋友，这些东西能把桃子提出你的腮！
 
-So, yes. You’ve kept up nicely. But now I must begin to be a brutal
-schoolmaster. I need to start seeing good marks from you. So far, you’ve done
-nothing but move your eyes around a lot. Okay, sure, you did some exceptional
-reading aloud earlier. Now we need some comprehension skills here, Smotchkkiss.
+所以，是的。你已经保持的很好了。但是我现在必须开始做一个残忍的校长。我开始关注你的成绩。
+到目前为止，你什么也没做，却把你的眼睛离开了太久。好吧，当然，你之前做了一个大声的怪异的阅读。
+现在我们需要一些理解的技能，Smotchkkiss.
 
-**Say aloud each of the parts of speech used below.**
+**大声说出下面所有的词性**
 
 {% highlight rb %}
 5.times { print "Odelay!" }
 {% endhighlight %}
 
-You might want to even cover this paragraph up while you read, because your eyes
-might want to sneak to the answer. We have a _number_ `5`, followed by a
-_method_ `.times`. Then, the first crab pincers of a _block_. The kernel
-_method_ `print` has no dot and is followed by a _string_ `"Odelay!"`. The final
-crab pincers close our _block_.
+你在读的时候可能需要遮住这一段，因为你的眼睛会偷偷的看到这里的答案。我们有一个*数字*`5`，
+紧随其后的是*方法* `.times`。然后，第一个螃蟹钳子夹着 *代码块*。 内置*方法* `print` 
+没有使用点来引用，接着它后面的是一个*字符串* `"Odelay!"`。最后一个螃蟹钳子关闭了*代码块*。
 
-**Say aloud each of the parts of speech used below.**
+**大声说出下面所有的词性**
 
 {% highlight rb %}
 exit unless "restaurant".include? "aura"
 {% endhighlight %}
 
-Like the `print` method, `exit` is a kernel _method_. If you were paying
-attention during the big list of keywords, you’ll know that `unless` is just
-such a _keyword_. The _string_ `"restaurant"` is clung to by the _method_
-`include?`. And finally, the string `"aura"`.
+和`print`方法一样，`exit`也是一个内置*方法*。如果你之前注意看那一大段关键词列表，
+你就会知道`unless`是一个*关键词*。字符串 `"restaurant"` 紧挨着*方法* `include?`。
+最后，是一个字符串 `"aura"` 。
 
-**Say aloud each of the parts of speech used below.**
+**大声说出下面所有的词性**
 
 {% highlight rb %}
 ['toast', 'cheese', 'wine'].each { |food| print( food.capitalize ) }
 {% endhighlight %}
 
-This caterpillar partakes of finer delicacies. An _array_ starts this example.
-In the array, three _strings_ `'toast'`, `'cheese'`, and `'wine'`. The whole
-array is trailed by a _method_ `each`.
+这只毛毛虫吃光了美味佳肴。这是一个 `数组` 的例子。在这个数组中有三个字符串：
+`'toast'` `'cheese'` 和 `'wine'` 。数组的所有内容通过 `each` *方法* 跟踪。
 
-Inside of a _block_, the _block argument_ `food`, traveling down its little
-waterslide into the block. The _method_ `capitalize` then capitalizes the first
-letter of the block argument, which has become _variable_ `food`. This
-capitalized _string_ is passed to kernel _method_ `print`.
+在*代码块*中，*代码块参数* `food` ，踩着它的小滑板进入了代码块。方法 `capitalize` 
+把代码块参数的第一个字母变成大写，代码块参数早已变成了*变量* `food` 。这个首字母大写化的
+*字符串* 作为参数传入内置*方法* `print` 中。
 
-Look over these examples once again. Be sure you recognize the parts of speech
-used. They each have a distinct look, don’t they? Take a deep breath, press
-firmly on your temples. Now, let’s dissect a cow’s eye worth of code.
+再一次浏览这些例子。确保你了解了词性的用法。他们每个都有明显的外表，不是吗？
+深吸一口气，用力按压太阳穴。现在，让我们来讨论代码中母牛眼睛的价值。
 
 <a name="section4"></a>
 
-## 4. An Example to Help You Grow Up
+## 4. 一个帮助你成长的例子
 
 ![Gettin' cabin fever.](../images/the.foxes-7.png "Gettin' cabin fever.")
 
-**Say aloud each of the parts of speech used below.**
+**大声说出下面所有的词性**
 
 {% highlight rb %}
 require 'net/http'
@@ -668,34 +658,30 @@ Net::HTTP.start( 'www.ruby-lang.org', 80 ) do |http|
 end
 {% endhighlight %}
 
-The first line is a method call. The _method_ called `require` is used. A
-_string_ is passed to the method containing `'net/http'`. Think of this first
-line of code as a sentence. We have told Ruby to load some helper code, the
-`Net::HTTP` library.
+第一行是一个方法调用，使用了名为 `require` 的*方法*。包含`'net/http'`的*字符串*
+传入了该方法。把第一句代码想象成一个句子。我们已经告诉Ruby去加载一些帮助代码，
+`Net::HTTP`类库。
 
-The next three lines all go together. The _constant_ `Net::HTTP` refers to the
-library we loaded above. We are using the _method_ `start` from the library.
-Into the method, we’re sending a _string_ `'www.ruby-lang.org'` and the _number_
-`80`.
+之后的三行是一个整体。*常量* `Net::HTTP` 引用自我们上面加载的类库中。我们正在
+从类库中使用*方法* `start` 。在方法里面，我们正在传送一个*字符串* `'www.ruby-lang.org'`
+和一个数字 `80` 。
 
-The word `do` opens a _block_. The block has one _block variable_ `http`. Inside
-the block, the _method_ `print` is called. What is being printed?
+单词 `do` 打开了一个 *代码块* 。这个代码块有一个 *代码块变量* `http` 。在代码块里面，
+*方法* `print` 被调用。什么内容要内打印呢？
 
-From the _variable_ `http`, the _method_ `get` is called. Into `get`, we pass a
-_string_ containing the path `'/en/about/license.txt'`. Now, notice that another
-method is chained onto `get`. The _method_ `body`. Then, the block closes with
-`end`.
+变量* `http` 中，调用了*方法* `get`。在 `get` 方法里面，我们传入了一个包含路径
+`'/en/about/license.txt'`的*字符串*。现在，注意紧接着 `get` 之后的另一个方法。
+然后，代码块以 `end` 结束。
 
-Doing okay? Just out of curiosity, can you guess what this example does?
-Hopefully, you’re seeing some patterns in Ruby. If not, just shake your head
-vigorously while you’ve got these examples in your mind. The code should break
-apart into manageable pieces.
+做好了吗？只是出于好奇心，你能猜猜这个例子是做什么的吗？要是幸运的话，你正在看的是
+Ruby的一些模式。如果没有那么幸运，那你就积极的摇摇头，因为你已经把这些例子记在了你的脑子里。
+应该打破代码，分为可管理的模块。
 
-For example, this pattern is used a number of times:
+例如，这种模式就经常被使用：
 
     _variable_ . _method_ ( _method arguments_ )
 
-You see it inside the block:
+在代码块中你看到：
 
 {% highlight rb %}
 http.get( '/en/about/license.txt' )
