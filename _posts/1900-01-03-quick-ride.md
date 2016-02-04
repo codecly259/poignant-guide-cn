@@ -572,39 +572,35 @@ truck.")
 ## 我生活中有关禅的7个片段
 
 1. 8岁的时候。我躺在床上，思考着。突然我意识到，*没有什么能阻止我成为一个儿童牙医*
-2. 21\. 在海滩上发现一个铅笔。在上面雕刻：*我喜欢宁静。*把它塞到我西装的内胸袋里。
+2. 21岁\. 在海滩上发现一个铅笔。在上面雕刻：*我喜欢宁静。*把它塞到我西装的内胸袋里。
 看着海浪拍来退去。
-3. 22\. 在我的浴室里发现一只正要陷入加热通风口的甲虫。把他抓上来。使用叶子和线给他
+3. 22岁\. 在我的浴室里发现一只正要陷入加热通风口的甲虫。把他抓上来。使用叶子和线给他
 量身定做一个背包。背包里放了一个柱子和一个<span class="caps">AAA</span>电池。
 那应该够他维持一段时间。把他放在宽敞的大门旁。
 4. 3岁的时候。拉开窗帘的一边，阳光照射进来。
-5. 14\. 我骑着自行车在码头上，我的教练紧跟着我后面慢跑。我在经典任天堂版泰森之拳中
+5. 14岁\. 我骑着自行车在码头上，我的教练紧跟着我后面慢跑。我在经典任天堂版泰森之拳中
 淘汰了活塞本田，此时太阳刚好下山。
-
-6. 11\. Sick. Watching Heathcliff on television. For hours, it was Heathcliff.
-And he was able to come right up close to my face. His head spun toward me. His
-face pulsed back and forth, up close, then off millions of miles away. Sound was
-gone. In fractions of a second, Heathcliff filled the universe, then blipped off
-to the end of infinity. I heard my mother’s voice trying to cut through the
-cartoon. Heathclose, Heathaway, Heathclose, Heathaway. It was a religious rave
-with a cat strobe and muffled bass of mother’s voice. (I ran a fever of 105 that
-day.)
-7. 18\. Bought myself a gigapet. A duck. Fed it for awhile. Gave it a bath.
-Forgot about it for almost a couple months. One day, while cleaning, I found a
-chain and he was there on the end. Hey, little duck. Mad freaky, hoppin’ around
-with his hair out, squawking diagonal lines. In a tuxedo.
+6. 11岁\. 生病。在电视上观看Heathcliff。好几个小时，这是Heathcliff。他主动走过来，
+几乎都要贴上我的脸了。他把头转向我，他的脸来回摆动，太近了，虽然他本来远在千里之外。
+声音消失了。在几分之一秒，Heathcliff充满了整个世界，然后又到了世界的边缘。我听到了
+妈妈的声音试图通过卡通电视传来。Heath来了，Heath走了，Heath又来了，Heath又走了。
+这是来自修道院院长虔诚而又低沉的声音。（我一共发烧105天）
+7. 18岁\. 给自己买了一个宠物，Heathcliff。一只鸭子。喂了它一段时间，给它洗澡，然后又忘了几个月。
+有一天，我在打扫房间的时候，发现一个链条，而它就缠在链条的边缘。嘿，小鸭子。它疯狂怪异，
+头发乱成一糟，对着我叫。穿着燕尾服。
 {% endcapture %}
 {{ sidebar | markdownify }}
 </aside></div>
 
 <a name="section3"></a>
 
-## 3. If I Haven't Treated You Like a Child Enough Already
+## 3. 如果我没有把你当做小孩来看待已经足够了
 
 I’m proud of you. Anyone will tell you how much I brag about you. How I go on
 and on about this great anonymous person out there who scrolls and reads and
 scrolls and reads. “These kids,” I tell them. “Man, these kids got heart. I
 never…” And I can’t even finish a sentence because I’m absolutely blubbering.
+我以你为荣。
 
 And my heart glows bright red under my filmy, translucent skin and they have to
 administer 10cc of JavaScript to get me to come back. (I respond well to toxins
