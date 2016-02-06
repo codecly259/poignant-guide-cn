@@ -695,30 +695,28 @@ http.get( '/en/about/license.txt' )
 变量 `http` 就是那个公共汽车司机。*方法*是给司机传送消息的。去 `获取(get)`名字叫 `/en/about/license.txt`
 的网页。
 
-So where you see the chain of methods:
+那么你看到如下方法链：
 
 {% highlight rb %}
 http.get( '/en/about/license.txt' ).body
 {% endhighlight %}
 
-Since we’ll be getting back a web page from the `http` bus driver, you can read
-this in your brain as:
+由于我们即将从公共汽车司机 `http` 那里获得返回页面，你可以在大脑里这样读：
 
     _web page_ .body
 
-And this bit of code:
+还有这些代码：
 
 {% highlight rb %}
 print( http.get( '/en/about/license.txt' ).body )
 {% endhighlight %}
 
-This code gets the web page. We send a `body` message to the web page, which
-gives us all the <span class="caps">HTML</span> in a _string_. We then `print`
-that string. See how the basic dot-method pattern happens in a chain. The next
-chapter will explore all these sorts of patterns in Ruby. It’ll be good fun.
+这些代码是来获取网页的。我们发送一个`body`消息给网页，会返回给我们所有的<span class="caps">HTML</span>
+页面的*字符串*。然后我们打这个字符串`打印(print)`出来。了解一下在代码链中基础的点引用方法模式。
+下一章将要探索Ruby中的所有种类的模式。这将会很有趣。
 
-So, what does this code do? It prints the <span class="caps">HTML</span> for the
-Ruby home page to the screen using an web-enabled bus driver.
+那么，这段代码做了什么呢？它打印Ruby主页<span class="caps">HTML</span>到屏幕，通过
+一个网络允许的公共汽车司机。
 
 <a name="section5"></a>
 
