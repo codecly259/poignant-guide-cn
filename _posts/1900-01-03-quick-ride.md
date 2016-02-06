@@ -687,18 +687,13 @@ Ruby的一些模式。如果没有那么幸运，那你就积极的摇摇头，�
 http.get( '/en/about/license.txt' )
 {% endhighlight %}
 
-We’re using Ruby to get a web page. You’ve probably used <span
-class="caps">HTTP</span> with your web browser. <span class="caps">HTTP</span>
-is the Hypertext Transfer Protocol. <span class="caps">HTTP</span> is used to
-transfer web pages across the Internet. Conceptualize a bus driver that can
-drive across the Internet and bring back web pages for us. On his hat are
-stitched the letters <span class="caps">HTTP</span>.
 我们正在使用Ruby来获取一个网页。你可能已经在网页浏览器中使用过了<span class="caps">HTTP</span>。
 <span class="caps">HTTP</span>就是超文本传输协议（Hypertext Transfer Protocol）。
-<span class="caps">HTTP</span>用来在网络上传输网页。
+<span class="caps">HTTP</span>用来在网络上传输网页。想象一个可以在互联网上行驶并给我们
+带回来网页的公共汽车司机，他戴着装订有<span class="caps">HTTP</span>的帽子。
 
-The variable `http` is that bus driver. The _method_ is a message to the bus
-driver. Go `get` the web page called `/en/about/license.txt`.
+变量 `http` 就是那个公共汽车司机。*方法*是给司机传送消息的。去 `获取(get)`名字叫 `/en/about/license.txt`
+的网页。
 
 So where you see the chain of methods:
 
