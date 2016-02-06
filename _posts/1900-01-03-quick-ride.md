@@ -693,6 +693,9 @@ is the Hypertext Transfer Protocol. <span class="caps">HTTP</span> is used to
 transfer web pages across the Internet. Conceptualize a bus driver that can
 drive across the Internet and bring back web pages for us. On his hat are
 stitched the letters <span class="caps">HTTP</span>.
+我们正在使用Ruby来获取一个网页。你可能已经在网页浏览器中使用过了<span class="caps">HTTP</span>。
+<span class="caps">HTTP</span>就是超文本传输协议（Hypertext Transfer Protocol）。
+<span class="caps">HTTP</span>用来在网络上传输网页。
 
 The variable `http` is that bus driver. The _method_ is a message to the bus
 driver. Go `get` the web page called `/en/about/license.txt`.
