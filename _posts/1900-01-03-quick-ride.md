@@ -6,7 +6,7 @@ sections:
 - - section1
   - 语言，我是说语言
 - - section2
-  - 演讲部分
+  - 词性
 - - section3
   - 如果我还没有把你像孩子一样对待
 - - section4
@@ -701,7 +701,7 @@ http.get( '/en/about/license.txt' )
 http.get( '/en/about/license.txt' ).body
 {% endhighlight %}
 
-由于我们即将从公共汽车司机 `http` 那里获得返回页面，你可以在大脑里这样读：
+由于我们即将从公共汽车司机 `http` 那里获得返回页面，你可以在心里这样读：
 
     _web page_ .body
 
