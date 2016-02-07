@@ -725,20 +725,12 @@ print( http.get( '/en/about/license.txt' ).body )
 ![Running after the truck.](../images/the.foxes-8.png "Running after the
 truck.")
 
-So now we have a problem. I get the feeling that you are enjoying this way too
-much. And you haven’t even hit the chapter where I use jump-roping songs to help
-you learn how to parse <span class="caps">XML</span>!
-现在我们有一个问题。我感觉你现在以这种方式享受的太多了。而且你甚至还没有到达我的跳跃式歌曲
+现在我们有一个问题。我感觉你现在以这种方式享受的太多了。而且你甚至还没有看到我的跳跃式歌曲
 以帮助你学习怎样解析<span class="caps">XML</span>!
 
-If you’re already enjoying this, then things are really going bad. Two chapters
-from now you’ll be writing your own Ruby programs. In fact, it’s right about
-there that I’ll have you start writing your own role-playing game, your own
-file-sharing network (a la BitTorrent), as well as a program that will pull
-genuine random numbers from the Internet.
 如果你已经在享受这些，那么事情确实在向坏处发展。到现在已经两章了，你应该正在写你自己的
 Ruby程序了。事实上，确实也到时候了，我将要让你开始写你自己的角色扮演游戏，你自己的
-文件共享网络系统（），还有一个在网络上产生真实随机数的程序。
+文件共享网络系统（以比特流的方式），还有一个在网络上产生真实随机数的程序。
 
 <p style="float:right">
   <img src="../images/graph-1.gif"
@@ -746,41 +738,25 @@ Ruby程序了。事实上，确实也到时候了，我将要让你开始写你�
     alt="Proof has been extracted from the pudding.">
 </p>
 
-And you know (you’ve got to know!) that this is going to turn into an obsession.
-First, you’ll completely forget to take the dog out. It’ll be standing by the
-screen door, darting its head about, as your eyes devour the code, as your
-fingers slip messages to the computer.
 而且你知道（你必须知道！）这将进入一个紧张的状态。首先，你要完全忘记去出去遛狗。
 你要一直屏幕旁边，身体坐直，眼睛一直盯着代码，手指要一直向电脑输入消息。
 
-Thanks to your neglect, things will start to break. Your mounds of printed
-sheets of code will cover up your air vents. Your furnace will choke. The trash
-will pile-up: take-out boxes you hurriedly ordered in, junk mail you couldn’t
-care to dispose of. Your own uncleanliness will pollute the air. Moss will
-infest the rafters, the water will clog, animals will let themselves in, trees
-will come up through the foundations.
-由于你的忽视，事情将要打断一下。
+由于你的疏忽，事情开始打破。你打印代码的纸张堆成一团，将要堵住你的通风口。你得炉子将要熄灭。
+垃圾将会堆积：你仓促的订很多外卖，却不关心处理垃圾袋。你自己的不清洁将要污染空气。
+椽木将会滋生苔藓，这会阻塞水流，动物会自己走进来，树木会经过房基长进来。
 
-But your computer will be well-cared for. And you, Smotchkkiss, will have
-nourished it with your knowledge. In the eons you will have spent with your
-machine, you will have become part-CPU. And it will have become part-flesh. Your
-arms will flow directly into its ports. Your eyes will accept the video directly
-from <span class="caps">DVI</span>-24 pin. Your lungs will sit just above the
-processor, cooling it.
+但是你的计算机将会被照顾的很好。而你，Smotchkkiss，会用你的知识滋养它。
+你将永世和你的机器在一起，你将成为CPU的一部分。而它将成为你肉体的一部分。
+你的胳膊将可以直接插入它的端口。你的眼睛将会直接通过<span class="caps">DVI</span>-24接口
+接收视屏信息。你的肺就坐在处理器上面，将其冷却。
 
-And just as the room is ready to force itself shut upon you, just as all the
-overgrowth swallows you and your machine, you will finish your script. You and
-the machine together will run this latest Ruby script, the product of your
-obsession. And the script will fire up chainsaws to trim the trees, hearths to
-warm and regulate the house. Builder nanites will rush from your script,
-reconstructing your quarters, retiling, renovating, chroming, polishing,
-disinfecting. Mighty androids will force your crumbling house into firm, rigid
-architecture. Great pillars will rise, statues chiseled. You will have dominion
-over this palatial estate and over the encompassing mountains and islands of
-your stronghold.
+正如你的房间准备强制关闭后，所有过度生长并吞没你和你的机器事物一样，你将要完成你的脚本。
+你将要和你的机器一起运行这最新的Ruby脚本，令你痴迷的产品。脚本将要发动电锯修剪树木，
+温暖壁炉，规划房间。纳米机器人建造者将从你的脚本冲出，重建你的宿舍，铺瓦，翻新，镀铬，
+抛光，消毒。强有力的机器人将会使你破碎的房子变得坚实稳固。巨大的主力将要升起来，雕刻成
+轮廓分明的雕像。你将有权统治这个富丽堂皇的庄园，并将环山和岛屿作为你的据点。
 
-So I guess you’re going to be okay. Whatdya say? Let’s get moving on this script
-of yours?
+所以我猜测你会好起来的。你说什么？让我们赶紧运行你的脚本？
 
 
   [1]: http://www.whiskeyclone.net/ghost/L/lordonlyknows.html
