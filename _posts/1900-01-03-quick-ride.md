@@ -12,7 +12,7 @@ sections:
 - - section4
   - 一个例子来帮助你成长
 - - section5
-  - And So, The Quick Trip Came To An Eased, Cushioned Halt
+  - 那么现在，快速的来一个轻松的，缓慢的停止
 ---
 
 ![The foxes show up.](../images/the.foxes-1.png "The foxes show up.")
@@ -720,8 +720,7 @@ print( http.get( '/en/about/license.txt' ).body )
 
 <a name="section5"></a>
 
-## 5. And So, The Quick Trip Came To An Eased, Cushioned Halt
-## 5. 那么现在，快速浏览
+## 5. 那么现在，快速的来一个轻松的，缓慢的停止
 ![Running after the truck.](../images/the.foxes-8.png "Running after the
 truck.")
 
