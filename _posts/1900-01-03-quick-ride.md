@@ -721,19 +721,24 @@ print( http.get( '/en/about/license.txt' ).body )
 <a name="section5"></a>
 
 ## 5. And So, The Quick Trip Came To An Eased, Cushioned Halt
-
+## 5. 那么现在，快速浏览
 ![Running after the truck.](../images/the.foxes-8.png "Running after the
 truck.")
 
 So now we have a problem. I get the feeling that you are enjoying this way too
 much. And you haven’t even hit the chapter where I use jump-roping songs to help
 you learn how to parse <span class="caps">XML</span>!
+现在我们有一个问题。我感觉你现在以这种方式享受的太多了。而且你甚至还没有到达我的跳跃式歌曲
+以帮助你学习怎样解析<span class="caps">XML</span>!
 
 If you’re already enjoying this, then things are really going bad. Two chapters
 from now you’ll be writing your own Ruby programs. In fact, it’s right about
 there that I’ll have you start writing your own role-playing game, your own
 file-sharing network (a la BitTorrent), as well as a program that will pull
 genuine random numbers from the Internet.
+如果你已经在享受这些，那么事情确实在向坏处发展。到现在已经两章了，你应该正在写你自己的
+Ruby程序了。事实上，确实也到时候了，我将要让你开始写你自己的角色扮演游戏，你自己的
+文件共享网络系统（），还有一个在网络上产生真实随机数的程序。
 
 <p style="float:right">
   <img src="../images/graph-1.gif"
@@ -745,6 +750,8 @@ And you know (you’ve got to know!) that this is going to turn into an obsessio
 First, you’ll completely forget to take the dog out. It’ll be standing by the
 screen door, darting its head about, as your eyes devour the code, as your
 fingers slip messages to the computer.
+而且你知道（你必须知道！）这将进入一个紧张的状态。首先，你要完全忘记去出去遛狗。
+你要一直屏幕旁边，身体坐直，眼睛一直盯着代码，手指要一直向电脑输入消息。
 
 Thanks to your neglect, things will start to break. Your mounds of printed
 sheets of code will cover up your air vents. Your furnace will choke. The trash
