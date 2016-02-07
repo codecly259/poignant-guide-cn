@@ -759,6 +759,7 @@ will pile-up: take-out boxes you hurriedly ordered in, junk mail you couldn’t
 care to dispose of. Your own uncleanliness will pollute the air. Moss will
 infest the rafters, the water will clog, animals will let themselves in, trees
 will come up through the foundations.
+由于你的忽视，事情将要打断一下。
 
 But your computer will be well-cared for. And you, Smotchkkiss, will have
 nourished it with your knowledge. In the eons you will have spent with your
