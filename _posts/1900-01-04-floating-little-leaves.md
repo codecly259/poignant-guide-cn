@@ -60,23 +60,20 @@ leaf_tender = 5
 {% capture sidebar %}
 ## The Scarf Eaters
 
-I hate to intrude upon your instruction, but I’ve already walked all over it
-enough to warrant some further disregard. Can I go over my next project with
-you?
+我讨厌在你的指导手册中打扰，但是我都已经走到这里了，我保证我会被进一步忽视。
+我还可以跟着你到下一个项目吗？
 
-I’ve pledged to write another book. (_Trombones_.) The good news is that I won’t
-actually be writing any of it. You won’t have to endure any more of this inane
-blathering.
+我承诺了写另一本书（*长号[Trombone]）*）。好消息是我实际上我没有写关于它的任何内容。
+你将不必忍受这愚蠢而滔滔不绝的废话。
 
-It’s over between me and words. I’d love to stick around and exploit them each,
-one after another, but it’s all becoming quite predictable, wouldn’t you say?
-Eventually, they will all be used and I’d have to come up with fake words and
-that would be way too cnoofy.
+这是关于我和文字。我喜欢在附近徘徊并利用他们每一个，一个又一个，但是一切都是可预见的，
+你说不是吗？最后，他们都将被使用，而我不得不编一些假话，这将不是舒适的方式。
 
 Now. The deal isn’t cut yet, but I’m in negotiations with Anna Quindlen to do my
 ghost writing. We’re tag-teaming on a book that’s going to blow the (Poignant)
 Guide right out of your hands. To put it bluntly, the Guide will be worthless.
 You won’t be able to pile enough pomegranates on top of the thing.
+现在，这笔交易还没有决定，但我在和Anna Quindlen谈判帮我代写的事情。
 
 So this new book. The Scarf Eaters. It’s a coming-of-age novel. But it’s also a
 beginner’s guide to Macromedia Flash. It’s like Judy Blume crossed Praystation.
