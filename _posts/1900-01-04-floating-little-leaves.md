@@ -18,7 +18,7 @@ ham!](../images/the.elf-1.gif "Impossibly deep in the caverns of Ambrose... the
 Elf with a pet ham!") ![...and the cat Trady Blix.](../images/the.elf-2.gif
 "...and the cat Trady Blix.")
 
-我从没有见过ham做除了渗水果汁之外的其他事情。今天，我们在Ambrose洞穴的业务是和精灵一起的。
+我从没有见过ham做除了渗水果汁之外的其他事情。今天，我们在Ambrose洞穴的业务是需要和精灵一起完成的。
 他是下一课的重要组成部分。让我们都让他感到宾至如归。去加热你的聆听帽！（并请更换掉那些荒谬的箍筋裤子。）
 
 温馨提示：这节课要慢很多。和它在一起。这将是一个漫长的过程，先做一个深呼吸。
@@ -27,40 +27,32 @@ Elf with a pet ham!") ![...and the cat Trady Blix.](../images/the.elf-2.gif
 
 <a name="section1"></a>
 
-## 1. The Leaf as a Status Symbol in Ambrose
+## 1. 叶子作为Ambrose的身份象征
 
-Alright, Elf. Give us a quick rundown of the currency issues you’ve faced there
-in your kingdom.
+好吧，精灵。给我们快速介绍下你王国遇到的货币问题。
 
 ![Blue Crystals got the shaft.](../images/the.elf-3.gif "Blue Crystals got the
 shaft.")
 
-Yeah, that’s not the way I remember it. This Elf was paging me constantly. When
-I refused to call him back, he somehow left a message on my pager. Meaning: it
-beeped a couple times and then printed out a small slip of paper. The slip said
-something to the effect of, “Get down here quick!” and also, “We’ve got to rid
-the earth of this scourge of entrepreneurial caterpillars, these twisted insect
-vikings are suffocating my blue crystals!”
+是的，这和我的记忆不一样。这个精灵一直寻呼我。当握拒绝给他回话时，不知怎的，他在我的传呼机留了言。
+我的意思是：它响了几次，然后打印出一张小纸条。小纸条的大意是，“快点趴下！”，还有，
+“我们不得不摆脱这场企业毛毛虫的瘟疫，这些扭动的昆虫维京人正在使我的蓝水晶窒息！”
 
-Lately, the exchange rate has settled down between leaves and crystals. One
-tree-grown note is worth five crystals. So the basic money situation looks like
-this:
+不久前：叶子和水晶的汇率已经安定下来。一颗成年的大树现在值5个水晶。所以，基础货币的情况是这样的：
 
 {% highlight rb %}
 blue_crystal = 1
 leaf_tender = 5
 {% endhighlight %}
 
-This example is, like, _totally_ last chapter. Still. It’s a start. We’re
-setting two _variables_. The **equals sign** is used for _assignment_.
+这个例子中，和上一章的*totally*是一样的。仍然，这是一个开始。我们设置了两个*变量*。
+**等号**用来*赋值*。
 
-Now `leaf_tender` represents the number `5` (as in: five blue crystals.) This
-concept right here is **half of Ruby**. We’re _defining_. We’re _creating_. This
-is half of the work. Assignment is the most basic form of defining.
+现在 `leaf_tender` 代表着数字 `5` （也就是：5个蓝水晶），在这里的意思是**红宝石(Ruby)的一半**。
+我们在*定义*，我们在*创造*。这是我们工作的一半。赋值是最基本的定义方式。
 
-You can’t complain though, can you Elf? You’ve built an empire from cashing your
-blue crystals into the new free market among the forest creatures. (And even
-though he’s an elf to us, he’s a tall monster to them.)
+但是你不能抱怨，精灵你可以吗？你已经建立了一个王国，可以兑现蓝水晶到森林生物的自由市场。
+（即使他对我们来说是精灵，但对他们来说他是高大的怪兽）
 
 ![Animal Perfect, LLC](../images/the.elf-4.jpg "Animal Perfect, LLC")
 
