@@ -1,5 +1,5 @@
 ---
-title: "Floating Little Leaves of Code"
+title: "漂流小叶子上的代码"
 permalink: book/chapter-4.html
 layout: chapter
 sections:
@@ -18,16 +18,12 @@ ham!](../images/the.elf-1.gif "Impossibly deep in the caverns of Ambrose... the
 Elf with a pet ham!") ![...and the cat Trady Blix.](../images/the.elf-2.gif
 "...and the cat Trady Blix.")
 
-I’ve never seen the ham do anything but leak juice. Today, our business in
-Ambrose Caverns is with the elf. He is a crucial part of the next lessons. Let’s
-all make him feel welcome. Go start warming up your listening hats! (And please
-change out of those ridiculous stirrup pants.)
+我从没有见过ham做除了渗水果汁之外的其他事情。今天，我们在Ambrose洞穴的业务是和精灵一起的。
+他是下一课的重要组成部分。让我们都让他感到宾至如归。去加热你的聆听帽！（并请更换掉那些荒谬的箍筋裤子。）
 
-A prompt warning: this lesson is much slower. Stay with it. This will be a long,
-deep breath. The most crucial stage of your instruction. It may seem like you’re
-not learning much code at first. You will be learning concepts. By the end of
-this chapter, you will know Ruby’s beauty. The coziness of the code will become
-a down sleeping bag for your own solace.
+温馨提示：这节课要慢很多。和它在一起。这将是一个漫长的过程，先做一个深呼吸。
+这是你教程的最关键阶段。这看起来好像一开始你并没有学习多少代码。你将要先学习概念。
+在这一章的最后，你将了解Ruby的美感。舒适的代码将成为你睡觉时的慰藉之物。
 
 <a name="section1"></a>
 
