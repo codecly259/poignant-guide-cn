@@ -69,18 +69,14 @@ leaf_tender = 5
 这是关于我和文字。我喜欢在附近徘徊并利用他们每一个，一个又一个，但是一切都是可预见的，
 你说不是吗？最后，他们都将被使用，而我不得不编一些假话，这将不是舒适的方式。
 
-Now. The deal isn’t cut yet, but I’m in negotiations with Anna Quindlen to do my
-ghost writing. We’re tag-teaming on a book that’s going to blow the (Poignant)
-Guide right out of your hands. To put it bluntly, the Guide will be worthless.
-You won’t be able to pile enough pomegranates on top of the thing.
-现在，这笔交易还没有决定，但我在和Anna Quindlen谈判帮我代写的事情。
+现在，这笔交易还没有决定，但我在和Anna Quindlen谈判帮我代写的事情。我们准备合作写一本
+吹捧正在你手中的这本（辛酸的）指南的书。坦率的说，这本指南毫无价值可言。你不能在上面堆足够的石榴。
 
-So this new book. The Scarf Eaters. It’s a coming-of-age novel. But it’s also a
-beginner’s guide to Macromedia Flash. It’s like Judy Blume crossed Praystation.
-It’s like 0sil8 starring Hillary Duff.
+所以这本新书，围巾食者，是一本人生成长小说。但它也是Macromedia Flash的初学者指南。
+它就像Judy Blume经过的教堂，就像Hillary Duff主演的0sil8。
 
-I don’t want to give away the plot at all, but to tug your appetite I’ll just
-say this: one kid talks to his dead brother in ActionScript. More to come.
+我确实不想泄露情节，但为了掉你的胃口，我只说这些：一个小孩在ActionScript中和他的哥哥对话。
+更多内容敬请期待。
 {% endcapture %}
 {{ sidebar | markdownify }}
 </aside></div>
