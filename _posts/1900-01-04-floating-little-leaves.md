@@ -4,7 +4,7 @@ permalink: book/chapter-4.html
 layout: chapter
 sections:
 - - section1
-  - The Leaf as a Status Symbol in Ambrose
+  - 叶子作为Ambrose的身份象征
 - - section2
   - Small and Nearly Worthless
 - - section3
@@ -58,12 +58,12 @@ leaf_tender = 5
 
 <div class=sidebar><aside>
 {% capture sidebar %}
-## The Scarf Eaters
+## 围巾食者
 
 我讨厌在你的指导手册中打扰，但是我都已经走到这里了，我保证我会被进一步忽视。
 我还可以跟着你到下一个项目吗？
 
-我承诺了写另一本书（*长号[Trombone]）*）。好消息是我实际上我没有写关于它的任何内容。
+我承诺了写另一本书（*长号[Trombone]*）。好消息是我实际上我没有写关于它的任何内容。
 你将不必忍受这愚蠢而滔滔不绝的废话。
 
 这是关于我和文字。我喜欢在附近徘徊并利用他们每一个，一个又一个，但是一切都是可预见的，
@@ -75,112 +75,93 @@ leaf_tender = 5
 所以这本新书，围巾食者，是一本人生成长小说。但它也是Macromedia Flash的初学者指南。
 它就像Judy Blume经过的教堂，就像Hillary Duff主演的0sil8。
 
-我确实不想泄露情节，但为了掉你的胃口，我只说这些：一个小孩在ActionScript中和他的哥哥对话。
-更多内容敬请期待。
+我确实不想泄露情节，但为了掉你的胃口，我只说这些：一个小孩在ActionScript中和他死去的哥哥对话。
+更多惊喜敬请期待。
 {% endcapture %}
 {{ sidebar | markdownify }}
 </aside></div>
 
-Nonono. Hang on a sec. You’re not ready for what the Elf here is doing in his
-caves. You’ll think it’s all positively inhumane, naughty, sick, tweeested, yada
-yada.
+不不不，等一下。你还并不知道精灵要在他的洞穴里做什么。你会觉得这一切肯定是残忍的，不规矩的，
+病态的，离奇古怪的...
 
-### Now You’re Going to Hear the Animal Perfect Mission Statement Because This Is A Book And We Have Time And No Rush, Right?
+### 现在你将要听到动物完美的使命宣言，因为这是一本书而且我们有时间又不着急，不是吗？
 
-Back, back, way back before speedboats, I owned a prize race horse who took a
-stumble on the track. She did ten front flips and crashed into a guy who was
-carrying a full jar of mayonnaisse. We had blood and mayonnaisse up and down the
-track. Needless to say, she was a disaster.
+坐在快艇前面回来的路上，我遇到一只跌倒在跑道上的赛马，她之前获得很多奖项。她做了10个空翻然后撞上
+一个拿着满罐蛋黄酱的家伙身上。蛋黄酱和血都洒在了跑道上。毋庸置疑，她是这场灾难的受害者。
 
-The vet took one look at her and swore she’d never walk again. Her legs were
-gone and the vet wouldn’t allow a legless horse to just sit around. We’d need to
-put her down. He swore his life and career on it, insisting we divide into two
-parallel lines. The people who could not refute the doctor’s claims on one side;
-those too stubborn to accept his infallable medical reasoning on the other. The
-Elf, his pet ham, and I were the only ones in that second line.
+兽医看了她一眼并宣誓她再也不能走路了。她的双腿都不见了，而兽医也不允许一个没腿的马坐在那里。
+我们需要让她安息。他以他的生命和职业宣誓，并坚持让我们让我们分成两条平行线。那些无法反驳
+医生请求的人在一边；那些固执的无法接受他万无一失的医疗理由的人在另一边。只有精灵，他的宠物ham和我
+在第二线上。
 
-So while the others heaped up trophies and great wreaths around the horse,
-bidding it a fond farewell before the bullet came to take him home, the Elf and
-I frantically pawed the Internet for answers. We took matter into our own hands,
-cauterizing her leg wounds with live crawdads. It worked great! We now had a
-horse again. Or at least: a horse body with a crustaceous abdominal frosting.
+所以，当其他人在那只马周围堆积奖杯和花圈，在子弹带她回家前对她温柔的告别时，精灵和我
+在网络上疯狂的寻找解决方法。我们把东西拿到手中，使用活龙虾麻醉她受伤的大腿。这成功了！
+我们现在又有了一只马，或者至少是：一匹身上带有硬皮腹霜的马。
 
-She scurried everywhere after that and lived for years in pleasantly moist
-underground cavities.
+之后她到处乱窜并在潮湿的地下洞穴里快乐的活了很多年。
 
-Animal Perfect is now the future of animal enhancement. They build new animals
-and salvage old-style animals for parts. Of course, they’ve come a long ways.
-When Animal Perfect started, you’d see a full-grown bear walk into Animal
-Perfect and you’d see a full-grown bear with sunglasses walk out. Completely
-cheesy.
+现在动物完美是增强动物的未来。他们创造了新的动物零件用来抢救旧式的动物。当然，
+他们已经走了很长的路。当完美动物工程开始后，你将看到走进完美动物室的是一只成年的熊，
+走出来的是一只带着太阳镜的成年熊。相当的漂亮。
 
-Stick around and you’ll see a crab with _his own jet pack_. That’s a new 2004
-model jetcrab.
+环顾四周，你将发现一只带着*喷气背包*的螃蟹。那是2004年最新型喷气螃蟹。
 
-But now, the whole operation is up and running. And the cleanliness of the place
-is astonishing. All the equipment is so shiny. Everything is in chrome. Oh, and
-all the staff have concealed weapons. They’re trained to kill anyone who enters
-unannounced. Or, if they run out of bullets, they’re trained to pistol whip
-anyone who enters unannounced.
+但是现在，所有的操作正生龙活虎的运行着。而且地面上是令人惊讶的清洁。所有的装备都
+锃亮锃亮的。一切都镀着铬。哦，并且所有员工都藏着武器。他们训练有素，一旦有人进入
+禁区就杀死他。或者，如果他们逃过了子弹，他们被训练成射杀任何进入禁区的人。
 
-Elf, make me a starmonkey.
+精灵，当我做一回猴子星星吧。
 
 ![First, the star is caught.](../images/the.elf-5a.jpg "First, the star is
 caught.")
 
-Some imaginary Ruby for you:
+给你一些虚构的Ruby:
 
 {% highlight rb %}
 pipe.catch_a_star
 {% endhighlight %}
 
-Variable `pipe`. Method `catch_a_star`. A lot of Rubyists like to think of
-methods as a message. Whatever comes before the dot is handed the message. The
-above code tells the `pipe` to `catch_a_star`.
+变量 `pipe`，方法 `catch_a_star` 。很多Ruby开发者喜欢把方法作为消息。不管点前面是什么，
+它都用来处理消息。上面的代码是告诉`炮管(pipe)`去`抓住一个星星(catch_a_star)`。
 
-This is the **second half** of Ruby. Putting things in motion. These things you
-define and create in the first half start to _act_ in the second half.
+这是Ruby的**后半部分**。把事物运作起来。你在上半部分定义并创建事物，在下半部分*采取行动*。
 
-1. Defining things.
-2. Putting those things into action.
+1. 定义事物。
+2. 把事物运作起来。
 
-So what if the star catching code works? Where does the star go?
+那么逮捕星星代码是怎么工作的呢？星星又是被带到什么地方去了呢？
 
 {% highlight rb %}
 captive_star = pipe.catch_a_star
 {% endhighlight %}
 
-See, it’s up to you to collect the miserable, little star. If you don’t, it’ll
-simply vanish. Whenever you use a method, you’ll always be given something back.
-You can ignore it or use it.
+你看，由你来收集这个悲惨的小星星。如果你不这么做，他就会消失。每当你使用一个方法时，
+你将总会获得一些返回。你可以忽略它或者使用它。
 
-_If you can learn to use the answers that methods give you back, then you will
-**dominate**._
+_如果你能学会使用方法给你返回的答案，你将**占主导地位**_
 
 ![Star is ratcheted to the monkey's face.](../images/the.elf-5b.jpg "Star is ratcheted to the monkey's face.")
 
-Quickly then.
+然后快速的。
 
 {% highlight rb %}
 starmonkey = ratchet.attach( captive_monkey, captive_star )
 {% endhighlight %}
 
-The `ratchet` gets an `attach` message. What needs to be attached? The _method
-arguments_: the `captive_monkey` and the `captive_star`. We are given back a
-`starmonkey`, which we have decided to hang on to.
+该`棘轮(ratchet_)`获得了一个`附加(attach)`消息。需要附加什么？*方法参数*：
+`俘获的猴子(captive_monkey)`和`俘获的星星(captive_star)`。我们获得一个`猴子星星(starmonkey)`的返回，
+那是我们决定紧紧抓住的东西。
 
 ![Frog on the hand.](../images/the.elf-5c.gif "Frog on the hand.")
 
-This is turning out to be such a short, little proggie that I’m just going to
-put it all together as one statement.
+这原来是如此的短小，我将要把这所有连接成一个句子。
 
 {% highlight rb %}
 starmonkey = ratchet.attach( captive_monkey, pipe.catch_a_star ) + deco_hand_frog
 {% endhighlight %}
 
-See how `pipe.catch_a_star` is right in the arguments for the method? The caught
-star will get passed right to the ratchet. No need to find a place to put it.
-Just let it go.
+看到`pipe.catch_a_star`是怎样正确的放在方法参数里面的了吗？抓住的星星将直接放到棘轮中。
+不再需要找个地方把它放起来。就让他去吧。
 
 <a name="section2"></a>
 
