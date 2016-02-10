@@ -175,6 +175,7 @@ wasn’t room for him. He hit the button and chased up the stairs after it all.
 But the stairwell turned out to be too narrow and his shoulders got wedged going
 up.
 
+
 The soap mini-bars they give you are sized down for elves, so it’s impossible to
 work up a lather. I hate it. I keep mistaking them for contact lenses.
 
