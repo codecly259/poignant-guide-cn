@@ -172,21 +172,18 @@ starmonkey = ratchet.attach( captive_monkey, pipe.catch_a_star ) + deco_hand_fro
 Ambrose这里的旅馆并不好。粗糙的床，矮小的电梯。一个人把他的行李放在电梯就会发现没有他的空间了。
 他按下按钮然后在后面追着电梯。但是楼梯太窄，他的肩膀被挤了起来。
 
-The soap mini-bars they give you are sized down for elves, so it’s impossible to
-work up a lather. I hate it. I keep mistaking them for contact lenses.
+他们给你提供的那间小肥皂吧，根本就是为侏儒准备的，所以根本起不了泡沫。我讨厌这里。
+我就像带着隐形眼镜一样继续误会他们。
 
+我打开水龙头，却什么也没出来。事情是这样的：Ambrose是一个魔法属性的地方，所以我就冒个险，
+我把手放到水龙头下面。我感觉到无形的温水快速的流淌出来，流过我的手指。当我把手拿开时，
+已经变干又清洁了。
 
-I turned on the faucet and nothing came out. Thing is: Ambrose is a place with
-magical properties, so I took a chance. I put my hands under the spigot.
-Invisible, warm wetness. I felt the hurried sensation of running water, darting
-through my fingers. When I took my hands away, they were dry and clean.
-
-It was an amazing nothingness to experience. It was just like `nil`.
+这是一种惊人的虚无的体验。就像`nil`一样。
 
 ### Nil
 
-In Ruby, `nil` represents an emptiness. It is **without value**. It isn’t zero.
-Zero is a number.
+在Ruby里，`nil`代表着空。它是一个**空值**，但不是0，0是一个数字。
 
 It’s Ruby’s own walking dead, a flatlined keyword. You can’t add to it, it
 doesn’t evolve. But it’s terribly popular. This skeleton’s smiling in all the
