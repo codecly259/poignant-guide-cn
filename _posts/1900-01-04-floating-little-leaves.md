@@ -188,6 +188,8 @@ Ambrose这里的旅馆并不好。粗糙的床，矮小的电梯。一个人把�
 It’s Ruby’s own walking dead, a flatlined keyword. You can’t add to it, it
 doesn’t evolve. But it’s terribly popular. This skeleton’s smiling in all the
 pictures.
+它是Ruby中的行尸走肉，一个死亡的关键字。你不能添加到它，它已经不再发展。
+但是它非常的受欢迎。这个尸骨在所有的相册中都保持微笑。
 
 {% highlight rb %}
 plastic_cup = nil
