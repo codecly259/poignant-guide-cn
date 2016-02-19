@@ -185,9 +185,6 @@ Ambrose这里的旅馆并不好。粗糙的床，矮小的电梯。一个人把�
 
 在Ruby里，`nil`代表着空。它是一个**空值**，但不是0，0是一个数字。
 
-It’s Ruby’s own walking dead, a flatlined keyword. You can’t add to it, it
-doesn’t evolve. But it’s terribly popular. This skeleton’s smiling in all the
-pictures.
 它是Ruby中的行尸走肉，一个死亡的关键字。你不能添加到它，它已经不再发展。
 但是它非常的受欢迎。这个尸骨在所有的相册中都保持微笑。
 
@@ -195,9 +192,8 @@ pictures.
 plastic_cup = nil
 {% endhighlight %}
 
-The above `plastic_cup` is **empty**. You could argue that the `plastic_cup`
-contains something, a `nil`. The `nil` represents the emptiness, though, so go
-ahead and call it empty.
+上面的 `塑料杯(plastic_cup)` 是空的。你可以认为那个 `塑料杯` 包含一个叫 `nil` 的东西。
+`nil`代表虚无，所以，我们还是叫它空吧。
 
 Some of you who have programmed before will be tempted to say the `plastic_cup`
 is **undefined**. How about let’s not. When you say a variable is undefined,
