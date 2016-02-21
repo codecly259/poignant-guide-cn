@@ -1,7 +1,8 @@
 permalink:   none
 lsi:         false
 highlighter: pygments
-markdown:    rdiscount
+#markdown:    rdiscount
+markdown:    kramdown
 rdiscount:   { extensions: [smart] }
 exclude:
   - Gemfile
