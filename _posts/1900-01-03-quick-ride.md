@@ -85,7 +85,7 @@ Ruby有时是读着像英语，有时更像简化版英语。把上面的代码�
 少许单词和符号组合。这些句子放到一起，可以编成书，可已编成论文，也可以编成小说。
 这小说可以给人看，还可以给电脑看。
 
-<div class=sidebar><aside>
+<div class="sidebar"><aside>
 {% capture sidebar %}
 ## 关于这本(辛酸的)指南的商业使用
 
@@ -567,7 +567,7 @@ Ruby有一些内置的单词，充满了意义。这些单词不能用来作为�
 ![Out in the pickup truck.](../images/the.foxes-6.png "Out in the pickup
 truck.")
 
-<div class=sidebar><aside>
+<div class="sidebar"><aside>
 {% capture sidebar %}
 ## 我生活中有关禅的7个片段
 

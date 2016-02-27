@@ -56,7 +56,7 @@ leaf_tender = 5
 
 ![Animal Perfect, LLC](../images/the.elf-4.jpg "Animal Perfect, LLC")
 
-<div class=sidebar><aside>
+<div class="sidebar"><aside>
 {% capture sidebar %}
 ## 围巾食者
 
@@ -165,7 +165,7 @@ starmonkey = ratchet.attach( captive_monkey, pipe.catch_a_star ) + deco_hand_fro
 
 <a name="section2"></a>
 
-## 2. Small and Nearly Worthless
+## 2. 小而几近卑微
 
 ![Law-va.](../images/blix-1.gif "Law-va.")
 
@@ -260,7 +260,7 @@ This trick is a gorgeous way of expressing, _Do this only if **a* is true and
 
 Now that you’ve met `false`, I’m sure you can see what’s on next.
 
-<div class=sidebar><aside>
+<div class="sidebar"><aside>
 {% capture sidebar %}
 ## Make Your Own Starmonkey!
 
@@ -490,7 +490,7 @@ you hit _Enter_, `gets` will then stop paying attention to your keyboard
 punchings and answer back to Ruby with a string that contains everything you
 typed.
 
-<div class=sidebar><aside>
+<div class="sidebar"><aside>
 {% capture sidebar %}
 ## Get Ahead with The Tiger’s Vest
 
@@ -786,7 +786,7 @@ p File::methods
 
 ![Flowerboyz?  Heard it before.](../images/blix-2.gif "Flowerboyz?  Heard it before.")
 
-<div class=sidebar><aside>
+<div class="sidebar"><aside>
 {% capture sidebar %}
 ## Excerpt from The Scarf Eaters
 

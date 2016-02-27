@@ -7,7 +7,7 @@ layout: expansion
 sun...](../images/tigers.vest-1.gif "Tiger has vest.  Tiger likes girl robot.
 Earth crashing into sun...")
 
-<div class=sidebar><aside>
+<div class="sidebar"><aside>
 {% capture sidebar %}
 ## About Ruby Versions
 

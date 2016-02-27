@@ -1,9 +1,16 @@
 permalink:   none
 lsi:         false
-highlighter: pygments
+#highlighter: pygments
 #markdown:    rdiscount
+highlighter: rouge
 markdown:    kramdown
-rdiscount:   { extensions: [smart] }
+kramdown:
+  input: GFM
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+#rdiscount:   { extensions: [smart] }
 exclude:
   - Gemfile
   - Gemfile.lock

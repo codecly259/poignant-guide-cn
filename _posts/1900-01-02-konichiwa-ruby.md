@@ -32,7 +32,7 @@ sections:
 
 你确实需要抽泣一次，至少也要掉泪。要是还没有反应，洋葱会让这一切发生。
 
-<div class=sidebar><aside>
+<div class="sidebar"><aside>
 {% capture sidebar %}
 ## 我要怎样处理这本书带来的巨大收益
 
