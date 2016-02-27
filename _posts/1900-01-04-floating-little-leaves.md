@@ -110,7 +110,7 @@ leaf_tender = 5
 锃亮锃亮的。一切都镀着铬。哦，并且所有员工都藏着武器。他们训练有素，一旦有人进入
 禁区就杀死他。或者，如果他们逃过了子弹，他们被训练成射杀任何进入禁区的人。
 
-精灵，当我做一回猴子星星吧。
+精灵，让我做一回猴子星星吧。
 
 ![First, the star is caught.](../images/the.elf-5a.jpg "First, the star is
 caught.")
@@ -195,13 +195,12 @@ plastic_cup = nil
 上面的 `塑料杯(plastic_cup)` 是空的。你可以认为那个 `塑料杯` 包含一个叫 `nil` 的东西。
 `nil`代表虚无，所以，我们还是叫它空吧。
 
-Some of you who have programmed before will be tempted to say the `plastic_cup`
-is **undefined**. How about let’s not. When you say a variable is undefined,
-you’re saying that Ruby simply has no recollection of the variable, it doesn’t
-know the var, it’s absolutely non-existent.
+你们中的一些有变成经验的人可能会说`plastic_cup`是**undefined(未定义)**。
+我们为什么不这么说呢？当你说一个变量是未定义的，你仅仅是在说Ruby没有对那个变量的记忆，
+它不知道那个变量，它是绝对不存在的。
 
-But Ruby is aware of the `plastic_cup`. Ruby can easily look in the
-`plastic_cup`. It’s **empty**, but not **undefined**.
+但是Ruby确实是知道`plastic_cup`的。Ruby能够简单的检查`plastic_cup`。
+它是**空的**，而不是**未定义的**。
 
 ### False
 
