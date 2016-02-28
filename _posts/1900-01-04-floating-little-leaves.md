@@ -208,6 +208,7 @@ plastic_cup = nil
 
 _The cat Trady Blix. Frozen in emptiness. Immaculate whiskers rigid. Placid eyes
 of lake. Tail of warm icicle. Sponsored by a Very Powerful Pause Button._
+__
 
 The darkness surrounding Blix can be called **negative space**. Hang on to that
 phrase. Let it suggest that the emptiness has a negative connotation. In a
