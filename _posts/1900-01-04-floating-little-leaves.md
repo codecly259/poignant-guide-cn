@@ -206,20 +206,17 @@ plastic_cup = nil
 
 <p style="float:left"><img src="../images/blix-neg.gif" title="Shape of a cat." alt="Shape of a cat." /></p>
 
-_The cat Trady Blix. Frozen in emptiness. Immaculate whiskers rigid. Placid eyes
-of lake. Tail of warm icicle. Sponsored by a Very Powerful Pause Button._
-__
+_那只猫叫Trady Blix。凝固成为虚无。坚硬而完美的胡须，平静如湖的眼睛，温暖的冰柱尾巴。
+被一个强有力的暂停按钮控制。_
 
-The darkness surrounding Blix can be called **negative space**. Hang on to that
-phrase. Let it suggest that the emptiness has a negative connotation. In a
-similar way, `nil` has a slightly sour note that it whistles.
+Blix周围的黑暗可以被称为**负空间**。继续那个短语，让这表明空虚消极方面。
+相似的，`nil`具有微酸注意到它吹口哨。
 
-Generally speaking, **everything in Ruby has a positive charge to it**. This
-spark flows through strings, numbers, regexps, all of it. Only two keywords wear
-a shady cloak: `nil` and `false` draggin’ us down.
+通常来说，**Ruby里面的所有事物都有一个正电荷**。这个火光流经字符串，数字，正则表达式，其他所有的。
+只有两个关键字披着黑暗的斗篷：`nil`和`false`拖累我我们。
 
-You can **test that charge** with an `if` keyword. It looks very much like the
-`do` blocks we saw in the last chapter, in that both end with an `end`.
+你可以使用关键字`if`来**测试那个电极**。它看起来和我们上一章中看到的`do`语句块很相似，
+因为他们都是以一个`end`结尾的。
 
 {% highlight rb %}
 if plastic_cup
@@ -227,14 +224,11 @@ if plastic_cup
 end
 {% endhighlight %}
 
-If `plastic_cup` contains either `nil` or `false`, you won’t see anything print
-to the screen. They’re not on the `if` guest list. So `if` isn’t going to run
-any of the code it’s protecting.
+如果`plastic_cup`包含`nil`和`false`的任意一个，你将在屏幕上不会看到任务打印信息。
+他们不在`if`的客人清单中，所以`if`不会运行它保护的任何代码。
 
-But `nil` and `false` need not walk away in shame. They may be of questionable
-character, but `unless` runs a smaller establishment that caters to the
-bedraggled. The `unless` keyword has a policy of **only allowing those with a
-negative charge in**. Who are: `nil` and `false`.
+但是`nil`和`false`也不需要羞愧的离开。他们可能是可疑的字符，但是`unless`运行了一个更小的编制
+来迎合邋遢。。`unless`关键字有一个**值收留那些带负电极事物**的政策。他们也就是：`nil`和`false`。
 
 {% highlight rb %}
 unless plastic_cup
@@ -242,41 +236,41 @@ unless plastic_cup
 end
 {% endhighlight %}
 
-You can also use `if` and `unless` at the **end of a single line of code**, if
-that’s all that is being protected.
+如果那就是所有需要被保护的代码，
+你也可以在**一个单行代码的结尾**使用`if`和`unless`。
 
 {% highlight rb %}
 print "Yeah, plastic cup is up again!" if plastic_cup
 print "Hardly. It's down." unless plastic_cup
 {% endhighlight %}
 
-And another nice trick: stack the `if` and `unless`.
+另一个漂亮的招术：联合使用`if`和`unless`。
 
 {% highlight rb %}
 print "We're using plastic 'cause we don't have glass." if plastic_cup unless glass_cup
 {% endhighlight %}
 
-This trick is a gorgeous way of expressing, _Do this only if **a* is true and
-*b** isn’t true_.
+这个招术是一个华丽的表达方法：
+_只有**a*是正确的而且*b**不正确才运行这句代码_。
 
-Now that you’ve met `false`, I’m sure you can see what’s on next.
+到现在以已经见过`false`了，我确定你能想到接下来会是什么。
 
 <div class="sidebar"><aside>
 {% capture sidebar %}
-## Make Your Own Starmonkey!
+## 制作你自己的猴子星星！
 
-1. Turn a mug upside-down. ![](../images/starmonkeycrafts-1.jpg)
-2. Attach an apple with a rubber band. ![](../images/starmonkeycrafts-2.jpg)
-3. Shove car keys into the sides of the apple. ![](../images/starmonkeycrafts-3.jpg)
-4. Glue star face. ![](../images/starmonkeycrafts-4.jpg)
+1. 倒置一个杯子 ![](../images/starmonkeycrafts-1.jpg)
+2. 用橡皮筋连接一个苹果 ![](../images/starmonkeycrafts-2.jpg)
+3. 在苹果两侧插入车钥匙 ![](../images/starmonkeycrafts-3.jpg)
+4. 粘上一个星星的脸 ![](../images/starmonkeycrafts-4.jpg)
 
-You have two complementary star faces waiting in your account.
+在你的账户上有两个补充的星星脸，等待使用。
 
 <p style="text-align:center;"><img src="../images/starmonkeycrafts-5.gif" alt="" />
-Standard, placid.</p>
+标准的, 温和的.</p>
 
 <p style="text-align:center;"><img src="../images/starmonkeycrafts-6.gif" alt="" />
-Eating chalk.</p>
+吃粉笔.</p>
 {% endcapture %}
 {{ sidebar | markdownify }}
 </aside></div>
@@ -287,23 +281,20 @@ Eating chalk.</p>
 approaching_guy = true
 {% endhighlight %}
 
-I saw `true` at the hotel buffet tables today. I cannot stand that guy. His
-stance is way too wide. And you’ve never met anyone who planted his feet so hard
-in the ground. He wears this corny necklace made out of shells. His face exudes
-this brash confidence. (You can tell he’s exerting all of his restraint just to
-keep from bursting into Neo flight.)
 
-To be honest, I can’t be around someone who always has to be right. This `true`
-is always saying, “A-OK.” Flashing hang ten. And seriously, he loves that
-necklace. Wears it constantly.
+今天我在旅馆的自助桌上看到了`true`。我不能忍受那个家伙。他的姿势占据的太大空间。
+而且你从来没有见过任何一个人的脚在地上压的那么重。他带着贝壳制作的老土的项链。
+他的脸上露出傲慢的神态。（你可以说他发挥他所有的克制只是为了确保不会炸飞到Neo）
 
-As you’d suspect, he’s backstage at everything on the `if` event schedule.
+说实话，我不能够左右一个总是说他是正确的人。这个`true`总是说，“A-OK.”闪烁着挂着的项链。
+说真的，他喜欢那个项链，一直戴着它。
 
-`print "Hugo Boss" if true` acts like `print "Hugo Boss"`.
+如你所猜想的那样，他在后台所有`if`的事件安排中。
 
-Occassionally, `if` will haul out the velvet ropes to exercise some crowd
-control. The **double equals** gives the appearance of a short link of ropes,
-right along the sides of a red carpet where only `true` can be admitted.
+`print "Hugo Boss" if true` 就像执行 `print "Hugo Boss"`一样。
+
+偶尔，`if`将要拉出一个鹅绒绳索来练习某些人群控制。**双等于**给出了一个短绳链接的外观，
+一直沿着红地毯的边缘，只有`ture`的才能被录取。
 
 {% highlight rb %}
 if approaching_guy == true
@@ -311,11 +302,10 @@ if approaching_guy == true
 end
 {% endhighlight %}
 
-The double equals is simply **an ID check**. Do the gentleman at both ends of
-this rope appear to match?
+双等于是简单的**一个ID检查**。绳索两端出现的绅士相配吗？
 
-In this way, you control who `if` lets in. If you have a hard time getting along
-with `true` as I do, you can heartily welcome `false`.
+通过这种方式，你管控着`if`允许的人。如果你就像我一样不能和`true`相处的很好，
+你会痛快的欢迎`false`。
 
 {% highlight rb %}
 if approaching_guy == false
@@ -323,21 +313,22 @@ if approaching_guy == false
 end
 {% endhighlight %}
 
-Same goes for `unless`. The gateway is yours. Take possession of it.
+`unless`也是一样。门是你的，占有它。
 
-### Again, I Want You to Dominate
 
-Now, you want a head trip? **The double equals sign is a method.** Can you guess
-how it works? Here, check it out with the dot and parens:
+### 再次，我要你来支配
+
+现在，你想来一次旅行？**双等于符号就是一个方法。** 你能猜测它是怎么工作的嘛？
+在这里，把点和括号检出来：
 
 {% highlight rb %}
 approaching_guy.==( true )
 {% endhighlight %}
 
-Ruby allows the shortcut, though. You can drop the dot and back away slowly.
+尽管Ruby允许快捷方式。你可以把点扔掉然后缓慢后退。
 
-Now, do you remember what you need to do to **dominate** in Ruby? _Use the
-answers the methods give you._
+现在，你还记得在Ruby里面你需要做什么来**支配**事物了吗？
+_使用方法给你的答案。_
 
 {% highlight rb %}
 if nil.==( true )
@@ -345,12 +336,10 @@ if nil.==( true )
 end
 {% endhighlight %}
 
-In the above, how is the method’s answer being used?
+在上面的代码中，方法的答案是怎么被使用的呢？
 
-Let’s take the statement `nil.==(true)`. This will fail every time. No match. When
-there’s no match, the double equals method answers with `false`. A shake of the
-head. That answer is given to `if`, who can’t accept a `false`. The `print`
-never sees realization.
+让我们拿出语句`nil.==(true)`。这将在每次都失败。不匹配。当出现不匹配，双等于方法的
+答案就是`false`。摇着头，回答被给到`if`手中，它又不能接受一个`false`，`print`永远看不到实现。
 
 {% highlight rb %}
 at_hotel = true
