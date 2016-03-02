@@ -352,15 +352,17 @@ email = if at_hotel
 
 Even though `if` isn’t a method, `if` does give a return answer. Look at the
 above and wonder over what happens when `at_hotel` is `true`.
+即使`if`不是一个函数，`if`确实给了一个返回的答案。看看上面的代码，并思考
+当`at_hotel`是`true`的时候会发生什么。
 
-The `if` will return the answer given by the code it chooses to run. In the case
-of `at_hotel` being true, the first string, my e-mail address at Hotel Ambrose,
-will be returned. The `else` keyword marks code which will run, should `if`
-fail. If `at_hotel` is false, the `if` will answer with my e-mail address at Dr.
-N. Howard Cham’s office, where I take my apprenticeship.
+`if`将返回它选择执行代码的结果。案例中`at_hotel`是正确的，第一个字符创，
+也就是我的e-mail地址是在Ambrose旅馆，将要被返回。`else`关键字标记的代码将要在`if`失败的
+时候运行。如果`at_hotel`是错误的，`if`将要返回的e-mail地址为De.N. Howard Cham办公室，
+那是我做学徒的地方。
 
 Should you have several lines of code in an `if` or `unless`, **only the answer
 from the last full statement will be used**.
+如果在`if`或者`unless`后面有好几行代码，**只有最后完整的语句会被使用**
 
 {% highlight rb %}
 email = if at_hotel
