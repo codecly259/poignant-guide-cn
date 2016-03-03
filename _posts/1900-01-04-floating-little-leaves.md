@@ -350,19 +350,15 @@ email = if at_hotel
         end
 {% endhighlight %}
 
-Even though `if` isn’t a method, `if` does give a return answer. Look at the
-above and wonder over what happens when `at_hotel` is `true`.
 即使`if`不是一个函数，`if`确实给了一个返回的答案。看看上面的代码，并思考
 当`at_hotel`是`true`的时候会发生什么。
 
-`if`将返回它选择执行代码的结果。案例中`at_hotel`是正确的，第一个字符创，
+`if`将返回它选择执行代码的结果。案例中`at_hotel`是正确的，第一个字符串，
 也就是我的e-mail地址是在Ambrose旅馆，将要被返回。`else`关键字标记的代码将要在`if`失败的
 时候运行。如果`at_hotel`是错误的，`if`将要返回的e-mail地址为De.N. Howard Cham办公室，
 那是我做学徒的地方。
 
-Should you have several lines of code in an `if` or `unless`, **only the answer
-from the last full statement will be used**.
-如果在`if`或者`unless`后面有好几行代码，**只有最后完整的语句会被使用**
+如果在`if`或者`unless`后面有好几行代码，**只有最后完整语句的返回答案会被使用**
 
 {% highlight rb %}
 email = if at_hotel
@@ -372,22 +368,18 @@ email = if at_hotel
         end
 {% endhighlight %}
 
-Three lines of code inside the `if`. The first line assigns a string with my
-name in it to a variable. The second and third lines add the rest of my e-mail
-address on to the end. The **double less-than `<<` is the concatenation
-operator**. To concatenate is to **append**, or **add to the end**.
+`if`内部有三行代码。第一行使用我的名字字符串分配给一个变量。
+第二行和第三行增加我剩余的e-mail地址到变量后面。**双小于号`<<`是一个连接操作**。
+连接就是**追加**，或者**加到末尾**。
 
-Just as we saw with the equality checker `==`, the concatenator is a method.
-After adding to the end of the string, the concatenator also **answers with that
-very string**. So, the third line, which could be read as `address.<<( ".com"
-)`, gives back `address`, which the `if` then hands back for `email`'s
-assignment.
+就像我们看到的相等检测符号`==`,连接符也是一个方法。增加到字符串末尾后，
+连接符也**以完整的字符串最为回答**。因此，可以这样读第三行：`address.<<(".com")`，
+返回给`address`，那正式`if`接下来分配给`e-mail`的处理结果。
 
-Here’s a question: what if the `if` fails? What if `at_hotel` is false in the
-above example? Is anything returned? Nothing is assigned to `email`, right?
+这里有一个问题：如果`if`失败了会怎么样呢？如果上例中`at_hotel`为错误的会怎么样呢？
+有任何返回结果吗？没有任何值被分配给`e-mail`，对吗？
 
-Yes, nothing is returned. By which I mean: `nil` is returned. And often `nil` is
-a very useful answer.
+是的，没有值会被返回。我的意思是：会返回`nil`。而且`nil`经常是一个很有用的答案。
 
 {% highlight rb %}
 print( if at_hotel.nil?
@@ -401,19 +393,16 @@ print( if at_hotel.nil?
        end )
 {% endhighlight %}
 
-You can use the `nil?` method on any value in Ruby. Again, think of it as a
-message. To the value: “Are you nil? Are you empty?”
+你可以在Ruby中的任何值上使用`nil?`方法。此外，认为它还有一个消息。
+对那个值说：“你是nil吗？你是空的吗？”
 
-If `at_hotel` is empty, Ruby doesn’t have any idea if I’m in the hotel or not.
-So `if` answers with the “No clue” string. In order to handle the `true` or
-`false` possibilities, the `elsif` keyword is used. While you can have only one
-`if` and one `else`, you can fill the in-between with an exorbitant number of
-`elsif` keywords. Each `elsif` acts as **a further `if` test**. Checking for a
-positive charge.
+如果`at_hotel`为空，Ruby就不知道我是否在旅馆了。所以`if`以“没有线索”字符串应答。
+为了能够掌握`true`或者`false`的可能性，我们使用了关键字`elseif`。尽管你只能使用一个
+`if`和一个`else`，但是你可以在他们中间使用多个`elseif`关键字。每个`elseif`关键字
+扮演着**更进一步的`if`检测**。检查一个正电荷。
 
-If you’re doing okay at this point, then you’re in tip-top shape for the rest of
-the book. You have seen some pretty tough code in the last few examples. You
-strong fellow.
+如果你在这点上你做的很好，那么你在本书剩下部分会成为顶端。你已经在之前的几个例子中
+看到一些非常艰难的代码了。你很强大。
 
 <a name="section3"></a>
 
